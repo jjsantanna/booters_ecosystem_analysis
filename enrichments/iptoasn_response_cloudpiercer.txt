@@ -1,0 +1,627 @@
+Bulk mode; xp05-as26.svcs.ord08.cymru.com [2017-02-04 17:27:22 +0000]
+13335   | 104.31.6.187     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.7.187     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 127.0.0.1        | NA                  |    | other    |            | NA
+NA      | 108.162.192.165  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.192.70   | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.192.8    | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.192.80   | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.194.38   | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.194.41   | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.194.5    | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.116.138  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.118.176  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+19551   | 149.126.72.117   | 149.126.72.0/24     | IL | ripencc  | 2011-07-28 | INCAPSULA - Incapsula Inc, US
+NA      | 173.245.60.109   | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 173.245.60.63    | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 199.27.134.13    | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.4     | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.51    | NA                  | US | arin     | 2010-08-19 | NA
+19551   | 199.83.128.111   | 199.83.128.0/24     | US | arin     | 2011-01-14 | INCAPSULA - Incapsula Inc, US
+19551   | 199.83.129.181   | 199.83.129.0/24     | US | arin     | 2011-01-14 | INCAPSULA - Incapsula Inc, US
+19551   | 199.83.132.153   | 199.83.132.0/24     | US | arin     | 2011-01-14 | INCAPSULA - Incapsula Inc, US
+20473   | 8.2.120.116      | 8.2.120.0/24        | US | arin     |            | AS-CHOOPA - Choopa, LLC, US
+20473   | 8.2.120.122      | 8.2.120.0/24        | US | arin     |            | AS-CHOOPA - Choopa, LLC, US
+15169   | 172.217.1.78     | 172.217.0.0/16      | US | arin     | 2012-04-16 | GOOGLE - Google Inc., US
+13335   | 173.245.58.119   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.100   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+200019  | 176.123.8.84     | 176.123.0.0/19      | MD | ripencc  | 2012-07-26 | ASCLOUDATA , MD
+200019  | 176.123.8.85     | 176.123.0.0/19      | MD | ripencc  | 2012-07-26 | ASCLOUDATA , MD
+63949   | 104.237.149.169  | 104.237.144.0/21    | US | arin     | 2014-11-13 | LINODE-AP Linode, LLC, US
+13335   | 162.158.62.124   | 162.158.60.0/22     | US | arin     | 2013-05-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.16.88.120    | 104.16.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.16.89.120    | 104.16.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.16.90.120    | 104.16.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.16.91.120    | 104.16.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+1299    | 195.12.226.194   | 195.12.224.0/19     | EU | ripencc  |            | TELIANET , SE
+1299    | 195.12.231.33    | 195.12.224.0/19     | EU | ripencc  |            | TELIANET , SE
+1273    | 195.59.54.225    | 195.59.0.0/16       | EU | ripencc  |            | CW Vodafone Group PLC, GB
+34164   | 2.22.236.24      | 2.22.236.0/24       | EU | ripencc  | 2010-09-10 | AKAMAI-LON , GB
+20940   | 23.200.86.215    | 23.200.86.0/23      | US | arin     | 2013-07-12 | AKAMAI-ASN1 , US
+20940   | 23.212.108.103   | 23.212.108.0/23     | US | arin     | 2013-07-12 | AKAMAI-ASN1 , US
+20940   | 23.212.109.41    | 23.212.108.0/23     | US | arin     | 2013-07-12 | AKAMAI-ASN1 , US
+20940   | 23.215.60.82     | 23.215.60.0/23      | US | arin     | 2013-07-12 | AKAMAI-ASN1 , US
+16509   | 52.85.77.29      | 52.85.76.0/22       | US | arin     |            | AMAZON-02 - Amazon.com, Inc., US
+20940   | 72.246.43.11     | 72.246.43.0/24      | US | arin     | 2005-03-14 | AKAMAI-ASN1 , US
+11854   | 75.98.17.19      | 75.98.17.0/24       | US | arin     | 2009-02-24 | ASN-INTERNAP-BLK - Internap Network Services Corporation, US
+3320    | 80.150.2.160     | 80.144.0.0/13       | DE | ripencc  | 2001-08-06 | DTAG Internet service provider operations, DE
+6453    | 80.231.241.56    | 80.231.0.0/16       | EU | ripencc  | 2002-03-20 | AS6453 - TATA COMMUNICATIONS (AMERICA) INC, US
+1299    | 80.239.171.24    | 80.239.160.0/19     | EU | ripencc  | 2001-11-29 | TELIANET , SE
+5511    | 81.52.160.56     | 81.52.160.0/20      | FR | ripencc  | 2002-03-25 | OPENTRANSIT , FR
+5511    | 81.52.201.32     | 81.52.201.0/24      | FR | ripencc  | 2002-03-25 | OPENTRANSIT , FR
+20940   | 88.221.134.19    | 88.221.134.0/23     | EU | ripencc  | 2006-02-01 | AKAMAI-ASN1 , US
+20940   | 88.221.134.194   | 88.221.134.0/23     | EU | ripencc  | 2006-02-01 | AKAMAI-ASN1 , US
+20940   | 88.221.134.209   | 88.221.134.0/23     | EU | ripencc  | 2006-02-01 | AKAMAI-ASN1 , US
+5511    | 90.84.136.143    | 90.84.136.0/24      | FR | ripencc  | 2006-03-02 | OPENTRANSIT , FR
+5511    | 90.84.55.48      | 90.84.48.0/20       | FR | ripencc  | 2006-03-02 | OPENTRANSIT , FR
+5511    | 90.84.59.114     | 90.84.48.0/20       | FR | ripencc  | 2006-03-02 | OPENTRANSIT , FR
+5511    | 90.84.59.89      | 90.84.48.0/20       | FR | ripencc  | 2006-03-02 | OPENTRANSIT , FR
+5511    | 90.84.60.34      | 90.84.48.0/20       | FR | ripencc  | 2006-03-02 | OPENTRANSIT , FR
+13335   | 104.16.87.120    | 104.16.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.8.172     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.9.172     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.192.89   | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.118.154  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+19551   | 149.126.72.141   | 149.126.72.0/24     | IL | ripencc  | 2011-07-28 | INCAPSULA - Incapsula Inc, US
+NA      | 173.245.60.90    | NA                  | US | arin     | 2010-12-28 | NA
+13768   | 176.74.176.184   | 176.74.176.0/22     | GB | ripencc  | 2011-06-15 | PEER1 - Peer 1 Network (USA) Inc., US
+16276   | 192.99.167.59    | 192.99.0.0/16       | CA | arin     | 2013-06-17 | OVH , FR
+NA      | 199.27.134.103   | NA                  | US | arin     | 2010-08-19 | NA
+19551   | 199.83.128.74    | 199.83.128.0/24     | US | arin     | 2011-01-14 | INCAPSULA - Incapsula Inc, US
+13335   | 173.245.58.130   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.128   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.146.95    | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.147.95    | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.90    | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.168   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.182.246   | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.183.246   | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.138   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.105   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.175.198   | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+61387   | 159.253.0.110    | 159.253.0.0/24      | NL | ripencc  | 2011-09-20 | DENKERSICT-AS , NL
+61387   | 159.253.0.251    | 159.253.0.0/24      | NL | ripencc  | 2011-09-20 | DENKERSICT-AS , NL
+61387   | 159.253.0.64     | 159.253.0.0/24      | NL | ripencc  | 2011-09-20 | DENKERSICT-AS , NL
+NA      | 185.149.24.100   | NA                  | NL | ripencc  | 2016-04-25 | NA
+50673   | 185.53.162.18    | 185.53.160.0/22     | NL | ripencc  | 2014-04-11 | SERVERIUS-AS , NL
+16276   | 37.59.26.94      | 37.59.0.0/16        | FR | ripencc  | 2012-01-16 | OVH , FR
+42755   | 46.21.172.143    | 46.21.160.0/20      | NL | ripencc  | 2010-11-04 | DATAFIBER , NL
+16276   | 5.135.114.108    | 5.135.0.0/16        | FR | ripencc  | 2012-07-06 | OVH , FR
+13335   | 104.27.174.198   | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.105   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.224   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.96.147    | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.97.147    | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.86    | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.226   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.25.81.114    | 104.25.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.25.82.25     | 104.25.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.26.6      | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.182.7     | 104.16.0.0/12       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.192.129  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.207.246  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 198.41.130.95    | NA                  | US | arin     | 2012-10-09 | NA
+13335   | 104.25.224.34    | 104.25.224.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.25.225.34    | 104.25.224.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+2639    | 165.254.168.50   | 165.254.168.0/24    | US | arin     |            | ZOHO-AS - ZOHO, US
+13335   | 173.245.58.192   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.118   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+2639    | 74.201.154.201   | 74.201.154.0/24     | US | arin     | 2006-11-13 | ZOHO-AS - ZOHO, US
+16276   | 37.59.90.60      | 37.59.0.0/16        | FR | ripencc  | 2012-01-16 | OVH , FR
+16276   | 51.254.119.204   | 51.254.0.0/15       | FR | ripencc  |            | OVH , FR
+13335   | 104.27.164.82    | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.165.82    | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.211   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.74    | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.68.33     | 104.31.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.69.33     | 104.31.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.192.82   | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 173.245.58.155   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.219   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.3.118     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 127.69.91.210    | NA                  |    | other    |            | NA
+13335   | 104.28.2.118     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.140   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.144.44    | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.145.44    | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.2.78      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.20.66     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.194.148  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.203.152  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 173.245.60.65    | NA                  | US | arin     | 2010-12-28 | NA
+13335   | 190.93.248.33    | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 190.93.248.56    | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 190.93.252.130   | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 190.93.254.26    | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 198.41.184.83    | NA                  | US | arin     | 2012-10-09 | NA
+200039  | 82.196.16.29     | 82.196.16.0/24      | FR | ripencc  | 2003-10-27 | HYDRACOM-AS , GB
+13335   | 173.245.58.217   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.156   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.100.82    | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.101.82    | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+25369   | 217.146.91.36    | 217.146.91.0/24     | GB | ripencc  | 2004-04-21 | BANDWIDTH-AS , GB
+43350   | 46.166.188.69    | 46.166.184.0/21     | NL | ripencc  | 2010-12-16 | NFORCE , NL
+13335   | 173.245.58.233   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.186   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.26.164    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.27.164    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.25.72.31     | 104.25.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+49349   | 185.61.137.60    | 185.61.137.0/24     | UA | ripencc  | 2014-06-20 | DOTSI , PT
+13335   | 173.245.58.81    | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.209   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+49349   | 185.62.188.4     | 185.62.188.0/24     | NL | ripencc  | 2014-07-02 | DOTSI , PT
+13335   | 104.27.146.195   | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.52.45     | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.147.195   | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.131   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.181   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.12.57     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.13.57     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.123   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.119   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.12.94     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.198.191  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.200.205  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.207.87   | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 162.159.245.161  | 162.159.128.0/17    | US | arin     | 2013-05-23 | CLOUDFLARENET - CloudFlare, Inc., US
+32787   | 209.200.154.3    | 209.200.154.0/24    | US | arin     | 2004-06-25 | PROLEXIC-TECHNOLOGIES-DDOS-MITIGATION-NETWORK - Akamai Technologies, Inc., US
+13335   | 104.27.150.182   | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.151.182   | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.16.125    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.248   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+49349   | 185.62.190.25    | 185.62.190.0/24     | NL | ripencc  | 2014-07-02 | DOTSI , PT
+13335   | 104.24.110.249   | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.111.249   | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.10.22     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.16.182    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.18.76     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.70.246    | 104.31.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.207.214  | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.116.113  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.118.136  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+40065   | 162.212.253.166  | 162.212.253.0/24    | US | arin     | 2013-05-29 | CNSERVERS - CNSERVERS LLC, US
+40065   | 162.218.48.170   | 162.218.48.0/24     | US | arin     | 2013-08-01 | CNSERVERS - CNSERVERS LLC, US
+21740   | 98.124.253.216   | 98.124.253.0/24     | US | arin     | 2008-06-17 | ENOMAS1 - eNom, Incorporated, US
+13335   | 173.245.58.199   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.147   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.24.6      | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.25.6      | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 199.27.134.117   | NA                  | US | arin     | 2010-08-19 | NA
+13335   | 173.245.58.139   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.148   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.25.230.11    | 104.25.224.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.25.231.11    | 104.25.224.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.208   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.229   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+26496   | 208.109.4.222    | 208.109.4.0/23      | US | arin     | 2006-04-12 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+13335   | 104.28.28.114    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.29.114    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+26496   | 173.201.192.148  | 173.201.192.0/22    | US | arin     | 2009-09-18 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+13335   | 173.245.58.212   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.60    | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+26496   | 68.178.213.203   | 68.178.212.0/22     | US | arin     | 2005-04-12 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+26496   | 68.178.213.243   | 68.178.212.0/22     | US | arin     | 2005-04-12 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+26496   | 68.178.213.244   | 68.178.212.0/22     | US | arin     | 2005-04-12 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+26496   | 68.178.213.37    | 68.178.212.0/22     | US | arin     | 2005-04-12 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+26496   | 72.167.238.29    | 72.167.236.0/22     | US | arin     | 2007-07-05 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+26496   | 72.167.238.32    | 72.167.236.0/22     | US | arin     | 2007-07-05 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+13335   | 104.24.110.199   | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+19975   | 162.222.171.206  | 162.222.168.0/22    | US | arin     | 2013-10-04 | CASCADELINK - CASCADELINK INC, US
+13335   | 104.25.23.106    | 104.25.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.203.170  | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 104.24.111.199   | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.172   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.142   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+198949  | 185.70.40.18     | 185.70.40.0/24      | CH | ripencc  | 2014-09-15 | VS-AS , IL
+198949  | 185.70.40.22     | 185.70.40.0/24      | CH | ripencc  | 2014-09-15 | VS-AS , IL
+198949  | 185.70.40.27     | 185.70.40.0/24      | CH | ripencc  | 2014-09-15 | VS-AS , IL
+13335   | 104.28.16.126    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.194.54   | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.196.126  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.196.23   | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 162.159.241.239  | 162.159.128.0/17    | US | arin     | 2013-05-23 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 173.245.60.203   | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 199.27.134.111   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.152   | NA                  | US | arin     | 2010-08-19 | NA
+13335   | 104.28.17.126    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.132   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.117   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 91.121.137.27    | 91.121.0.0/16       | FR | ripencc  | 2006-09-20 | OVH , FR
+13335   | 104.28.24.49     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.116.66   | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 190.93.254.76    | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 198.41.184.120   | NA                  | US | arin     | 2012-10-09 | NA
+13335   | 104.28.30.112    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.31.112    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.6.123     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.7.123     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.137   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.210   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.28.34     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.29.34     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.134   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.104   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.138.7     | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.139.7     | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.100.236   | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.8.64      | 104.24.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.162.177   | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.10.106    | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.203.75   | NA                  | US | arin     | 2011-10-28 | NA
+50113   | 185.106.94.241   | 185.106.94.0/24     | RU | ripencc  | 2015-06-26 | SUPERSERVERSDATACENTER , RU
+49349   | 185.11.145.14    | 185.11.145.0/24     | NL | ripencc  | 2012-11-29 | DOTSI , PT
+262254  | 186.2.161.137    | 186.2.161.0/24      | BZ | lacnic   | 2012-11-21 | DANCOM LTD, BZ
+16276   | 188.165.150.116  | 188.165.0.0/16      | FR | ripencc  | 2009-06-05 | OVH , FR
+30148   | 192.124.249.10   | 192.124.249.0/24    | US | arin     | 2015-04-01 | SUCURI-SEC - Sucuri, US
+34549   | 5.1.74.68        | 5.1.64.0/19         | DE | ripencc  | 2012-04-25 | MEER-AS meerfarbig GmbH & Co. KG, DE
+50360   | 79.124.59.114    | 79.124.59.0/24      | BG | ripencc  | 2007-07-31 | TAMATIYA-AS , BG
+15169   | 173.194.69.26    | 173.194.69.0/24     | US | arin     | 2009-08-17 | GOOGLE - Google Inc., US
+13335   | 173.245.58.197   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.92    | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+15169   | 209.85.203.26    | 209.85.203.0/24     | US | arin     | 2006-01-13 | GOOGLE - Google Inc., US
+15169   | 64.233.190.26    | 64.233.190.0/24     | US | arin     | 2003-08-18 | GOOGLE - Google Inc., US
+15169   | 74.125.206.27    | 74.125.206.0/24     | US | arin     | 2007-03-13 | GOOGLE - Google Inc., US
+15169   | 74.125.22.26     | 74.125.22.0/24      | US | arin     | 2007-03-13 | GOOGLE - Google Inc., US
+49349   | 188.209.52.243   | 188.209.52.0/24     | NL | ripencc  | 2009-05-08 | DOTSI , PT
+13335   | 104.28.4.67      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.140.6     | 104.16.0.0/12       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.194.103  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.198.11   | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.198.206  | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.121.119  | 141.101.120.0/22    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 190.93.248.54    | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 190.93.250.30    | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 199.27.134.124   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.125   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.133   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.64    | NA                  | US | arin     | 2010-08-19 | NA
+13335   | 104.28.5.67      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 162.158.62.136   | 162.158.60.0/22     | US | arin     | 2013-05-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.164.96    | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.165.96    | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.59    | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.79    | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.18.61     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.20.20.113    | 104.20.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.164.2     | 104.16.0.0/12       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.192.136  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.192.45   | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 173.245.60.167   | NA                  | US | arin     | 2010-12-28 | NA
+13335   | 190.93.250.13    | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 190.93.252.116   | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 199.27.134.131   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.157   | NA                  | US | arin     | 2010-08-19 | NA
+13335   | 104.28.19.61     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.180   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.109   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.56.17     | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.57.17     | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+19551   | 149.126.72.173   | 149.126.72.0/24     | IL | ripencc  | 2011-07-28 | INCAPSULA - Incapsula Inc, US
+60503   | 185.30.165.39    | 185.30.165.0/24     | DE | ripencc  | 2013-07-11 | FNXTEC , DE
+13335   | 190.93.254.149   | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+40065   | 198.12.15.150    | 198.12.15.0/24      | US | arin     | 2012-10-29 | CNSERVERS - CNSERVERS LLC, US
+16125   | 5.199.170.190    | 5.199.168.0/22      | LT | ripencc  | 2012-08-28 | BALTICSERVERS1-AS , LT
+29073   | 94.102.51.123    | 94.102.48.0/20      | NL | ripencc  | 2008-08-29 | QUASINETWORKS , NL
+13335   | 104.27.140.215   | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.52.140    | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.141.215   | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 154.16.199.118   | NA                  | ZA | afrinic  | 2014-06-20 | NA
+13335   | 104.24.27.102    | 104.24.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.28.102    | 104.24.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+16406   | 199.193.205.20   | 199.193.204.0/22    | US | arin     | 2011-09-09 | AS-INTERMEDIA - Intermedia.net, Inc., US
+16406   | 64.78.52.22      | 64.78.0.0/18        | US | arin     | 2000-04-25 | AS-INTERMEDIA - Intermedia.net, Inc., US
+16406   | 64.78.52.23      | 64.78.0.0/18        | US | arin     | 2000-04-25 | AS-INTERMEDIA - Intermedia.net, Inc., US
+16406   | 199.193.200.97   | 199.193.200.0/22    | US | arin     | 2011-09-09 | AS-INTERMEDIA - Intermedia.net, Inc., US
+13335   | 104.23.129.77    | 104.23.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.23.130.77    | 104.23.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 127.80.146.52    | NA                  |    | other    |            | NA
+13335   | 141.101.121.251  | 141.101.120.0/22    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.121.252  | 141.101.120.0/22    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+16406   | 64.78.52.21      | 64.78.0.0/18        | US | arin     | 2000-04-25 | AS-INTERMEDIA - Intermedia.net, Inc., US
+13335   | 104.23.130.78    | 104.23.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.23.131.47    | 104.23.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.112.86   | 141.101.112.0/23    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.121.237  | 141.101.120.0/22    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 190.93.250.7     | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 198.41.184.253   | NA                  | US | arin     | 2012-10-09 | NA
+19780   | 162.244.197.199  | 162.244.196.0/22    | US | arin     | 2014-03-19 | AS-INTERMEDIA2 - Intermedia.net, Inc., US
+62567   | 162.243.233.121  | 162.243.192.0/18    | US | arin     | 2013-09-06 | DIGITALOCEAN-ASN-NY2 - Digital Ocean, Inc., US
+393406  | 45.55.222.213    | 45.55.192.0/18      | US | arin     | 2015-02-05 | DIGITALOCEAN-ASN-NY3 - Digital Ocean, Inc., US
+13335   | 104.28.20.49     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.21.49     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+200039  | 89.34.97.3       | 89.34.96.0/22       | GB | ripencc  | 2005-11-29 | HYDRACOM-AS , GB
+13335   | 173.245.58.236   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.110   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+2914    | 204.141.33.55    | 204.141.0.0/16      | US | arin     |            | NTT-COMMUNICATIONS-2914 - NTT America, Inc., US
+2639    | 216.52.72.121    | 216.52.72.0/23      | US | arin     |            | ZOHO-AS - ZOHO, US
+13335   | 104.18.56.203    | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.57.203    | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.120   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.223   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.62.3      | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.63.3      | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.20.65     | 104.24.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 162.159.240.200  | 162.159.128.0/17    | US | arin     | 2013-05-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.136   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.8.161     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.9.161     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.62.98     | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+30148   | 192.124.249.15   | 192.124.249.0/24    | US | arin     | 2015-04-01 | SUCURI-SEC - Sucuri, US
+13335   | 173.245.58.122   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.121   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 0.1.0.0          | NA                  |    | other    |            | NA
+NA      | 0.1.1.0          | NA                  |    | other    |            | NA
+NA      | 0.2.0.0          | NA                  |    | other    |            | NA
+NA      | 0.2.1.0          | NA                  |    | other    |            | NA
+NA      | 0.3.0.0          | NA                  |    | other    |            | NA
+NA      | 0.3.0.1          | NA                  |    | other    |            | NA
+NA      | 0.3.1.0          | NA                  |    | other    |            | NA
+NA      | 0.3.1.1          | NA                  |    | other    |            | NA
+NA      | 0.3.1.2          | NA                  |    | other    |            | NA
+13335   | 104.28.14.160    | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.0.39      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.15.160    | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.129   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.129   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.22.91     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 173.245.60.123   | NA                  | US | arin     | 2010-12-28 | NA
+13335   | 104.28.23.91     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.108   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.146   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.52.124    | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.53.124    | 104.18.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.250   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.220   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.160.155   | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.161.155   | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.87    | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.197   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.140.78    | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.141.78    | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.143   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.180.126   | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.181.126   | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 178.32.211.151   | 178.32.0.0/15       | FR | ripencc  | 2010-01-19 | OVH , FR
+13335   | 190.93.248.16    | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 190.93.252.110   | 190.93.240.0/20     | CR | lacnic   | 2012-03-19 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 198.41.204.129   | 198.41.192.0/19     | US | arin     | 2012-10-09 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.142   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.107   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.142.217   | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.143.217   | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.194.156  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.196.215  | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.118.126  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+22612   | 192.64.119.254   | 192.64.119.0/24     | US | arin     | 2012-12-17 | NAMECHEAP-NET - Namecheap, Inc., US
+18978   | 198.71.92.78     | 198.71.88.0/21      | US | arin     | 2012-08-16 | ENZUINC-US - Enzu Inc, US
+12182   | 64.74.223.33     | 64.74.208.0/20      | US | arin     | 2000-04-05 | INTERNAP-2BLK - Internap Network Services Corporation, US
+21740   | 98.124.243.33    | 98.124.243.0/24     | US | arin     | 2008-06-17 | ENOMAS1 - eNom, Incorporated, US
+13335   | 173.245.58.121   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.145   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.14.174    | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.15.174    | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.2.61      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.224.2     | 104.16.0.0/12       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.192.93   | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.118.56   | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+40065   | 162.252.9.210    | 162.252.9.0/24      | US | arin     | 2014-01-17 | CNSERVERS - CNSERVERS LLC, US
+NA      | 173.245.60.31    | NA                  | US | arin     | 2010-12-28 | NA
+60503   | 185.30.165.30    | 185.30.165.0/24     | DE | ripencc  | 2013-07-11 | FNXTEC , DE
+NA      | 199.27.134.26    | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.97    | NA                  | US | arin     | 2010-08-19 | NA
+16276   | 5.196.20.50      | 5.196.0.0/16        | FR | ripencc  | 2012-08-23 | OVH , FR
+13335   | 104.24.114.237   | 104.24.112.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.28.14     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.194.108  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.207.18   | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.116.180  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.124.127  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.125.135  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 162.159.248.24   | 162.159.128.0/17    | US | arin     | 2013-05-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.115.237   | 104.24.112.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.134   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.184.123   | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.185.123   | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.230   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.234   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.8.7       | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.9.7       | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.125   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.101   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.165.144   | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.164.144   | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.247   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 1.3.3.7          | NA                  | CN | apnic    | 2011-04-12 | NA
+13335   | 104.31.5.167     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+6222    | 69.69.69.69      | 69.69.64.0/20       | US | arin     | 2003-08-05 | CENTURYLINK-LEGACY-EMBARQ-CLTN - Embarq Corporation, US
+13335   | 104.28.0.22      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.2.30      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.4.10      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.192.9    | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.194.120  | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.118.162  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.118.38   | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+40065   | 162.218.48.16    | 162.218.48.0/24     | US | arin     | 2013-08-01 | CNSERVERS - CNSERVERS LLC, US
+16276   | 167.114.67.31    | 167.114.0.0/16      | CA | arin     | 2014-08-29 | OVH , FR
+NA      | 173.245.60.148   | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 173.245.60.158   | NA                  | US | arin     | 2010-12-28 | NA
+14618   | 174.129.25.170   | 174.129.0.0/16      | US | arin     | 2008-08-08 | AMAZON-AES - Amazon.com, Inc., US
+60558   | 185.28.191.20    | 185.28.191.0/24     | NL | ripencc  | 2013-06-17 | SECUREDSERVERS-EU , EU
+60503   | 185.30.165.33    | 185.30.165.0/24     | DE | ripencc  | 2013-07-11 | FNXTEC , DE
+60503   | 185.30.165.43    | 185.30.165.0/24     | DE | ripencc  | 2013-07-11 | FNXTEC , DE
+49349   | 185.62.190.40    | 185.62.190.0/24     | NL | ripencc  | 2014-07-02 | DOTSI , PT
+16276   | 192.99.154.85    | 192.99.0.0/16       | CA | arin     | 2013-06-17 | OVH , FR
+53667   | 198.251.86.84    | 198.251.86.0/24     | US | arin     | 2013-02-13 | PONYNET - FranTech Solutions, US
+NA      | 199.27.134.143   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.43    | NA                  | US | arin     | 2010-08-19 | NA
+3223    | 5.254.102.156    | 5.254.96.0/21       | RO | ripencc  | 2012-09-13 | VOXILITY , RO
+25761   | 72.20.58.84      | 72.20.32.0/19       | US | arin     | 2004-12-15 | STAMINUS-COMM - Staminus Communications, US
+15169   | 74.125.195.121   | 74.125.195.0/24     | US | arin     | 2007-03-13 | GOOGLE - Google Inc., US
+21740   | 8.5.1.31         | 8.5.0.0/23          | US | arin     |            | ENOMAS1 - eNom, Incorporated, US
+43350   | 85.159.237.148   | 85.159.232.0/21     | NL | ripencc  | 2009-06-12 | NFORCE , NL
+16276   | 92.222.27.202    | 92.222.0.0/16       | FR | ripencc  | 2007-10-17 | OVH , FR
+NA      | 98.124.198.1     | NA                  | US | arin     | 2008-06-17 | NA
+26415   | 98.124.199.1     | 98.124.199.0/24     | US | arin     | 2008-06-17 | VERISIGN-INC - VeriSign Global Registry Services, US
+13335   | 104.31.4.167     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.35.158    | 104.18.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+26496   | 173.201.192.5    | 173.201.192.0/22    | US | arin     | 2009-09-18 | AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+13335   | 104.31.88.222    | 104.31.80.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.34.158    | 104.18.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.118   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.216   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.6.158     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.7.158     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+14618   | 54.152.241.16    | 54.152.0.0/16       | US | arin     | 2014-10-23 | AMAZON-AES - Amazon.com, Inc., US
+13789   | 70.42.74.203     | 70.42.74.0/24       | US | arin     | 2005-09-29 | INTERNAP-BLK3 - Internap Network Services Corporation, US
+15169   | 8.8.8.8          | 8.8.8.0/24          | US | arin     |            | GOOGLE - Google Inc., US
+NA      | 108.162.194.63   | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.118.190  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 173.245.60.12    | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 173.245.60.145   | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 173.245.60.36    | NA                  | US | arin     | 2010-12-28 | NA
+13335   | 198.41.200.65    | 198.41.192.0/19     | US | arin     | 2012-10-09 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 199.27.134.112   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.77    | NA                  | US | arin     | 2010-08-19 | NA
+14586   | 74.91.124.108    | 74.91.124.0/24      | US | arin     | 2011-04-13 | NUCLEARFALLOUT-CHI - Nuclearfallout Enterprises, Inc., US
+13335   | 173.245.58.146   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.17.86     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.98.225    | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+49349   | 185.62.188.176   | 185.62.188.0/24     | NL | ripencc  | 2014-07-02 | DOTSI , PT
+13335   | 104.28.16.86     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.12.171    | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.13.171    | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.194.7     | 104.16.0.0/12       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.118.202  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+22612   | 162.255.119.249  | 162.255.119.0/24    | US | arin     | 2014-05-14 | NAMECHEAP-NET - Namecheap, Inc., US
+22612   | 162.255.119.250  | 162.255.119.0/24    | US | arin     | 2014-05-14 | NAMECHEAP-NET - Namecheap, Inc., US
+NA      | 173.245.60.129   | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 173.245.60.163   | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 173.245.60.170   | NA                  | US | arin     | 2010-12-28 | NA
+49349   | 185.11.145.4     | 185.11.145.0/24     | NL | ripencc  | 2012-11-29 | DOTSI , PT
+22612   | 192.64.119.231   | 192.64.119.0/24     | US | arin     | 2012-12-17 | NAMECHEAP-NET - Namecheap, Inc., US
+NA      | 199.27.134.120   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.36    | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.49    | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.5     | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.57    | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.75    | NA                  | US | arin     | 2010-08-19 | NA
+13335   | 104.31.14.154    | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.15.154    | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.199.87    | 104.27.192.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.192.16   | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.118.130  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.120.10   | 141.101.120.0/22    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.121.199  | 141.101.120.0/22    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 173.245.60.194   | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 173.245.60.220   | NA                  | US | arin     | 2010-12-28 | NA
+NA      | 173.245.60.223   | NA                  | US | arin     | 2010-12-28 | NA
+49349   | 185.11.145.29    | 185.11.145.0/24     | NL | ripencc  | 2012-11-29 | DOTSI , PT
+13335   | 198.41.132.25    | 198.41.132.0/23     | US | arin     | 2012-10-09 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 198.41.177.152   | NA                  | US | arin     | 2012-10-09 | NA
+NA      | 199.27.134.175   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.182   | NA                  | US | arin     | 2010-08-19 | NA
+15169   | 64.233.190.27    | 64.233.190.0/24     | US | arin     | 2003-08-18 | GOOGLE - Google Inc., US
+13335   | 104.27.159.63    | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.158.63    | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.115   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.140   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.5.184     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.192.111  | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.192.149  | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 141.101.118.192  | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 199.27.134.129   | NA                  | US | arin     | 2010-08-19 | NA
+NA      | 199.27.134.81    | NA                  | US | arin     | 2010-08-19 | NA
+19551   | 199.83.128.22    | 199.83.128.0/24     | US | arin     | 2011-01-14 | INCAPSULA - Incapsula Inc, US
+12322   | 78.217.187.201   | 78.192.0.0/11       | FR | ripencc  | 2007-03-15 | PROXAD , FR
+20473   | 8.2.120.149      | 8.2.120.0/24        | US | arin     |            | AS-CHOOPA - Choopa, LLC, US
+13335   | 104.31.4.184     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+15169   | 216.58.219.238   | 216.58.219.0/24     | US | arin     | 2012-01-27 | GOOGLE - Google Inc., US
+13335   | 104.27.132.54    | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.133.54    | 104.27.128.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.144   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.242   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+47583   | 31.220.106.27    | 31.220.106.0/24     | LT | ripencc  | 2011-05-10 | HOSTINGER-AS , LT
+13335   | 104.24.106.171   | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.107.171   | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.170.40    | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.194.10   | NA                  | US | arin     | 2011-10-28 | NA
+30823   | 178.251.228.228  | 178.251.228.0/24    | DE | ripencc  | 2010-06-30 | COMBAHTON combahton IT Services UG (haftungsbeschraenkt), DE
+13335   | 104.24.126.4     | 104.24.112.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.127.4     | 104.24.112.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.97    | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.94    | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 94.23.181.25     | 94.23.0.0/16        | FR | ripencc  | 2008-07-15 | OVH , FR
+13335   | 104.28.28.78     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.29.78     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.104   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+12586   | 94.249.196.123   | 94.249.192.0/18     | DE | ripencc  | 2008-09-18 | ASGHOSTNET , DE
+13335   | 104.18.42.35     | 104.18.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.43.35     | 104.18.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.8.126     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+NA      | 108.162.192.88   | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 199.27.134.27    | NA                  | US | arin     | 2010-08-19 | NA
+13335   | 173.245.58.103   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+2639    | 74.201.154.248   | 74.201.154.0/24     | US | arin     | 2006-11-13 | ZOHO-AS - ZOHO, US
+13335   | 104.27.174.82    | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.175.82    | 104.27.160.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.14.90     | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.167   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 178.33.35.61     | 178.32.0.0/15       | FR | ripencc  | 2010-01-19 | OVH , FR
+11831   | 162.221.204.239  | 162.221.204.0/24    | CA | arin     | 2013-09-20 | ESECUREDATA - eSecureData, CA
+13335   | 141.101.118.6    | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 198.245.63.152   | 198.245.48.0/20     | CA | arin     | 2012-04-16 | OVH , FR
+12182   | 64.74.223.38     | 64.74.208.0/20      | US | arin     | 2000-04-05 | INTERNAP-2BLK - Internap Network Services Corporation, US
+13335   | 104.27.148.143   | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.149.143   | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.93    | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.93    | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.8.84      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.9.84      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.36.164    | 104.18.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.18.37.164    | 104.18.32.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.186   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.246   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.184.62    | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.185.62    | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 5.135.191.101    | 5.135.0.0/16        | FR | ripencc  | 2012-07-06 | OVH , FR
+13335   | 173.245.59.143   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.97.99     | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.96.99     | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+22612   | 198.54.122.252   | 198.54.122.0/24     | US | arin     | 2015-11-13 | NAMECHEAP-NET - Namecheap, Inc., US
+22612   | 198.54.122.254   | 198.54.122.0/24     | US | arin     | 2015-11-13 | NAMECHEAP-NET - Namecheap, Inc., US
+13335   | 104.31.255.75    | 104.16.0.0/12       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.254.75    | 104.16.0.0/12       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.58.175   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.12.7      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.13.7      | 104.28.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 164.132.209.38   | 164.132.0.0/16      | FR | ripencc  |            | OVH , FR
+NA      | 108.162.194.72   | NA                  | US | arin     | 2011-10-28 | NA
+NA      | 108.162.198.124  | NA                  | US | arin     | 2011-10-28 | NA
+13335   | 173.245.58.101   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.139   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.176.235   | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.177.235   | 104.27.176.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.240   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.70.204    | 104.31.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.71.204    | 104.31.64.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.20.52.154    | 104.20.48.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.27.146.116   | 104.27.144.0/20     | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 158.69.218.41    | 158.69.0.0/16       | CA | arin     | 2015-06-15 | OVH , FR
+49349   | 185.11.146.56    | 185.11.146.0/24     | NL | ripencc  | 2012-11-29 | DOTSI , PT
+16276   | 5.196.194.125    | 5.196.0.0/16        | FR | ripencc  | 2012-08-23 | OVH , FR
+13335   | 173.245.58.70    | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.89    | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.24.96.148    | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.30.87     | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 46.105.203.89    | 46.105.192.0/20     | FR | ripencc  | 2010-11-29 | OVH , FR
+3223    | 5.254.102.147    | 5.254.96.0/21       | RO | ripencc  | 2012-09-13 | VOXILITY , RO
+13335   | 104.24.97.148    | 104.24.96.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.8.173     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.9.173     | 104.31.0.0/20       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.28.24.117    | 104.28.16.0/20      | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 104.31.144.3     | 104.16.0.0/12       | US | arin     | 2014-03-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 141.101.118.26   | 141.101.112.0/20    | EU | ripencc  | 2011-06-23 | CLOUDFLARENET - CloudFlare, Inc., US
+16276   | 188.165.74.152   | 188.165.0.0/16      | FR | ripencc  | 2009-06-05 | OVH , FR
+NA      | 198.41.128.18    | NA                  | US | arin     | 2012-10-09 | NA
+13335   | 173.245.58.135   | 173.245.58.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US
+13335   | 173.245.59.111   | 173.245.59.0/24     | US | arin     | 2010-12-28 | CLOUDFLARENET - CloudFlare, Inc., US

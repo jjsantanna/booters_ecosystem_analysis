@@ -1,0 +1,436 @@
+1606-stresser.net;nan;nan;2017-01-31 07:26:58;nan;nan;nan
+absolut-stresser.net;2014-10-18 12:43:36;2017-10-18 12:43:36;2015-12-12 07:12:58;hera.ns.cloudflare.com;abuse@internet.bs;Internet Domain Service BS Corp.
+acidstresser.net;nan;nan;2017-01-31 07:26:58;nan;nan;nan
+agonyproducts.com;nan;nan;2017-01-31 07:26:58;nan;nan;nan
+alien-stresser.com;nan;nan;2017-01-31 07:27:14;nan;nan;nan
+alphastress.com;2015-03-02 00:43:14;2017-03-02 00:43:14;2016-02-25 01:36:21;ns1.verification-hold.suspended-domain.com;abuse@ilovewww.com;Shinjiru MSC Sdn Bhd
+ambushstresser.info;nan;nan;nan;nan;nan;nan
+america-stresser.us;2016-01-10 13:06:27;2017-01-09 23:59:59;2017-01-09 23:10:00;NS2.FREE-H.ORG;nan;GANDI SAS
+animebooter.net;nan;nan;2017-01-31 07:27:14;nan;nan;nan
+annonitystresser.com;nan;nan;2017-01-31 07:27:14;nan;nan;nan
+anonclan-stresser.net;nan;nan;2017-01-31 07:27:29;nan;nan;nan
+anonmafiastresser.com;nan;nan;2017-01-31 07:27:29;nan;nan;nan
+anonymous-stresser.com;nan;nan;2017-01-31 07:27:29;nan;nan;nan
+anonymous-stresser.net;2013-01-14 20:10:00;2018-01-14 20:10:29;2017-01-09 06:01:06;ALEX.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+anonymousbooter.com;2016-03-15 17:09:00;2017-03-15 17:09:00;2016-03-15 10:09:41;DNS1.REGISTRAR-SERVERS.COM;abuse@enom.com;ENOM, INC.
+anonymousddos.eu;nan;nan;nan;nan;nan;nan
+anxy-stresser.com;nan;nan;2017-01-31 07:27:43;nan;nan;nan
+apocalypse-solutions.com;nan;nan;2017-01-31 07:27:43;nan;nan;nan
+apocalypsestresser.webs.com;nan;nan;2017-01-31 07:27:43;nan;nan;nan
+asylumstresser.com;2012-10-22 22:27:00;2017-10-22 21:27:37;2016-10-25 10:58:39;NS1.BRAINYDNS.COM;abuse@enom.com;ENOM, INC.
+aurastresser.com;2015-08-23 00:13:00;2017-08-23 00:13:02;2016-07-24 05:01:51;KIP.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+avanzatostresser.com;nan;nan;2017-01-31 07:27:43;nan;nan;nan
+avengestresser.com;2013-09-24 04:27:00;2017-09-24 04:27:28;2016-10-31 19:01:14;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+b-h.us;2016-07-24 18:00:38;2017-07-23 23:59:59;2016-10-05 14:07:41;NS15.ABOVE.COM;nan;UDOMAINNAME.COM LLC
+baby-booter.com;nan;nan;2017-01-31 07:27:58;nan;nan;nan
+battle.pw;nan;nan;nan;nan;nan;nan
+bemybooter.eu;nan;nan;nan;nan;nan
+bestresser.com;nan;nan;2017-01-31 07:27:58;nan;nan;nan
+bestresser.net;nan;nan;2017-01-31 07:28:13;nan;nan;nan
+bezobooter.webs.com;nan;nan;2017-01-31 07:28:13;nan;nan;nan
+bigbangbooter.com;2015-07-27 18:28:00;2017-07-27 18:28:43;2016-11-24 21:30:35;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+boganbooter.org;nan;nan;nan;nan;nan;nan
+boot.ml;nan;nan;nan;nan;abuse@freenom.com;Point ML Domain Registry
+boot4free.com;2015-02-14 15:24:00;2018-02-14 15:24:10;2017-01-16 05:16:21;BRAD.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+booter-sales.hourb.com;nan;nan;2017-01-31 07:28:29;nan;nan;nan
+booter.eu;nan;nan;nan;nan;nan
+booter.in;2016-09-12 22:07:31;2017-09-12 22:07:31;2016-11-12 19:21:17;NS1.LOCALHOSTY.COM;nan;Endurance Domains Technology Pvt. Ltd. (R173-AFIN)
+booter.io;nan;2017-11-16 00:00:00;nan;dns1.registrar-servers.com;nan;nan
+booter.ninja;2016-10-18 19:34:03;2017-10-18 19:34:03;2017-01-10 22:29:23;roan.ns.cloudflare.com;brandon.poier@enom.com;ENom Inc.
+booter.org;2015-01-15 03:04:25;2018-01-15 03:04:25;2017-01-30 08:16:35;DNS1.NAME-SERVICES.COM;nan;eNom, Inc.
+booter.tw;nan;nan;nan;nan;nan;nan
+booter.xyz;2014-08-01 14:14:51;2017-08-01 23:59:59;2016-10-09 22:50:21;IAN.NS.CLOUDFLARE.COM;nan;Dynadot LLC
+booterddos.890m.com;nan;nan;2017-01-31 07:29:14;nan;nan;nan
+booterfull.com;nan;nan;2017-01-31 07:29:14;nan;nan;nan
+bootr.org;2016-06-28 12:01:17;2017-06-28 12:01:17;2016-08-28 03:45:15;NS1.LOCALHOSTY.COM;nan;Gransy s.r.o. d/b/a subreg.cz
+bootyou.xyz;2015-11-25 18:25:57;2016-11-25 23:59:59;2017-01-05 01:34:16;VICK.NS.CLOUDFLARE.COM;nan;Hostinger, UAB
+bullstresser.com;2015-01-11 20:26:22;2020-01-11 20:26:22;2015-08-18 12:50:36;BILL.NS.CLOUDFLARE.COM;domainabuse@tucows.com;TUCOWS, INC.
+buybooters.com;nan;nan;2017-01-31 07:29:30;nan;nan;nan
+buyddos.com;2012-10-10 21:32:00;2017-10-10 21:32:14;2016-11-07 12:02:32;NS1.DSREDIRECTION.COM;abuse@enom.com;ENOM, INC.
+buz.bugs3.com;nan;nan;2017-01-31 07:29:30;nan;nan;nan
+buzzbooter.fr;nan;nan;nan;nan;nan;nan
+buzzbooter.info;nan;nan;nan;nan;nan;nan
+campingwithkiddos.com;nan;nan;2017-01-31 07:29:30;nan;nan;nan
+carnagestresser.com;nan;nan;2017-01-31 07:29:43;nan;nan;nan
+celerystresser.com;2013-08-03 21:55:00;2017-08-03 21:55:24;2016-10-04 13:27:20;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+centexbooter.com;nan;nan;2017-01-31 07:29:43;nan;nan;nan
+cmdbooter.ml;nan;nan;nan;nan;nan;nan
+cnstresser.com;2015-05-03 15:10:49;2017-05-03 15:10:49;2016-07-14 00:00:00;EMILY.NS.CLOUDFLARE.COM;abuse@godaddy.com;GoDaddy.com, LLC
+cobra-api.com;nan;nan;2017-01-31 07:29:59;nan;nan;nan
+connectionstresser.com;2014-09-10 00:46:03;2017-09-10 00:46:03;2014-09-10 00:46:03;kip.ns.cloudflare.com;abuse@1api.net;1API GmbH
+cpubooter.com;nan;nan;2017-01-31 07:29:59;nan;nan;nan
+crazyamp.me;2016-03-15 17:09:48;2017-03-15 17:09:48;2016-05-14 21:15:28;DION.NS.CLOUDFLARE.COM;nan;NameCheap, Inc.
+critical-stresser.com;nan;nan;2017-01-31 07:29:59;nan;nan;nan
+cryptostresser.com;nan;nan;2017-01-31 07:30:15;nan;nan;nan
+crystalstresser.com;nan;nan;2017-01-31 07:29:59;nan;nan;nan
+cstress.net;2014-09-04 14:05:00;2018-09-04 14:05:00;2016-09-05 03:40:42;DNS1.REGISTRAR-SERVERS.COM;abuse@enom.com;ENOM, INC.
+cyber-sst.com;2016-01-13 22:34:28;2018-01-13 22:34:28;2016-10-20 12:03:31;ns3.above.com;abuse@above.com;ABOVE.COM PTY LTD.
+darealbooter.net;nan;nan;2017-01-31 07:30:15;nan;nan;nan
+darkbooter.com;2013-10-22 09:43:00;2017-10-22 09:43:00;2016-09-12 00:39:02;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+darkbooter.fr;nan;nan;nan;nan;nan;nan
+darkbooter.org;nan;nan;nan;nan;nan;nan
+darkmethods.info;nan;nan;nan;nan;nan;nan
+darkstresser.info;nan;nan;nan;nan;nan;nan
+darkstresser.net;nan;nan;2017-01-31 07:30:30;nan;nan;nan
+darkstresser.nl;nan;nan;nan;ns1.hostnet.nl;nan;Hostnet bv
+darkstresser.org;nan;nan;nan;nan;nan;nan
+darkstresser.weebly.com;nan;nan;2017-01-31 07:30:30;nan;nan;nan
+darkunion-booter.net;nan;nan;2017-01-31 07:30:46;nan;nan;nan
+databooter.com;2015-12-13 20:24:00;2017-12-13 20:24:20;2016-11-14 05:14:02;JEROME.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+ddos-block.com;2011-07-17 10:42:37;2017-07-17 00:00:00;2016-06-02 00:00:00;ns1.freedns.ws;abuse@reg.ru;Registrar of domain names REG.RU LLC
+ddos-fighter.com;2015-02-01 19:04:03;2017-02-01 19:04:03;2017-01-27 00:00:00;NS47.DOMAINCONTROL.COM;abuse@wildwestdomains.com;Wild West Domains, LLC
+ddos-him.com;2014-08-16 21:33:22;2017-08-16 21:33:22;2016-08-17 07:38:28;pat.ns.cloudflare.com;abuse@internet.bs;Internet Domain Service BS Corp.
+ddos-ip.com;2013-10-29 17:13:18;2017-10-29 17:13:18;2016-10-30 07:31:20;ns1.ibspark.com;abuse@internet.bs;Internet Domain Service BS Corp.
+ddos-monitor.ru;2010-07-12 00:00:00;2017-07-12 00:00:00;2017-01-31 10:26:32;ns1.freedns.ws;nan;REGRU-RU
+ddos-service.so;nan;nan;nan;nan;nan;nan
+ddos.city;2014-11-01 21:08:50;2017-11-01 21:08:50;2017-01-06 00:42:31;barbara.ns.cloudflare.com;registry@dynadot.com;Dynadot, LLC
+ddos.click;nan;nan;nan;nan;nan;nan
+ddos.kr;nan;nan;nan;nan;sky@tini4u.net;nan
+ddos.space;2016-11-25 08:19:18;2026-11-25 23:59:59;2016-12-15 09:38:11;DNS9.HICHINA.COM;nan;Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+ddos.tools;2016-07-12 11:15:16;2017-07-12 11:15:16;2017-01-06 00:59:54;ns76.domaincontrol.com;abuse@godaddy.com;GoDaddy.com, LLC
+ddosapi.co.uk;nan;nan;nan;nan;nan;nan
+ddosbouncer.com;nan;nan;2017-01-31 07:31:16;nan;nan;nan
+ddosbreak.com;2012-08-15 04:00:00;2022-08-15 04:00:00;2013-06-22 15:51:35;igor.ns.cloudflare.com;onlinenic-enduser@onlinenic.com;Onlinenic Inc
+ddosclub.com;2015-01-28 13:36:00;2017-01-28 13:36:52;2017-01-29 03:00:13;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+ddoscover.com;2013-08-10 22:25:00;2017-08-10 22:25:46;2016-08-05 05:30:38;HUGH.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+ddoseminc.com;nan;nan;2017-01-31 07:31:32;nan;nan;nan
+ddoser.pw;2016-11-25 08:22:25;2017-11-25 23:59:59;2016-11-30 08:27:15;NS1.PARKINGCREW.NET;nan;Epik LLC
+ddoser.xyz;2016-06-01 00:00:00;2017-06-01 00:00:00;2016-09-19 12:48:39;ns.parktons.com;abuse@regtons.com;GRANSY S.R.O D/B/A SUBREG.CZ
+ddosit.net;2015-06-08 15:45:00;2017-06-08 15:45:06;2016-10-06 17:30:22;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+ddosit.us;2015-05-19 21:25:28;2017-05-18 23:59:59;2016-09-16 16:30:42;DNS1.NAME-SERVICES.COM;nan;ENOM, INC.
+ddosnow.com;2017-01-09 06:32:36;2018-01-09 06:32:36;2017-01-09 00:00:00;NAOMI.NS.CLOUDFLARE.COM;abuse@godaddy.com;GoDaddy.com, LLC
+ddospower.com;nan;nan;2017-01-31 07:32:02;nan;nan;nan
+ddossite.com;nan;nan;2017-01-31 07:32:02;nan;nan;nan
+ddostheworld.com;2014-11-28 02:25:10;2017-11-28 02:25:10;2016-11-28 00:00:00;ALEXIS.NS.CLOUDFLARE.COM;abuse@godaddy.com;GoDaddy.com, LLC
+deadlyboot.net;nan;nan;2017-01-31 07:32:02;nan;nan;nan
+dedicatedstresser.net;2016-10-11 23:36:50;2017-10-11 23:36:50;2016-10-12 01:36:52;NS1.ARBOR-SINKHOLE.NET;abuse@support.gandi.net;GANDI SAS
+dejabooter.com;2016-07-13 03:23:02;2017-07-13 03:23:02;2016-09-12 02:15:55;ns27.rookdns.com;abuse-contact@publicdomainregistry.com;PDR Ltd. d/b/a PublicDomainRegistry.com
+deluxestresser.com;nan;nan;2017-01-31 07:32:17;nan;nan;nan
+demonstresser.eu;nan;nan;nan;nan;nan;nan
+denial-stresser.com;nan;nan;2017-01-31 07:32:17;nan;nan;nan
+destressbooter.com;2013-02-27 19:54:00;2017-02-27 19:54:12;2017-01-29 05:35:52;HUGH.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+destressnetworks.com;2014-06-26 07:59:00;2017-06-26 07:59:10;2015-05-28 04:05:58;HUGH.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+devicestresser.net;nan;nan;2017-01-31 07:32:32;nan;nan;nan
+diablestresser.info;2014-06-26 06:26:12;2017-06-26 06:26:12;2016-03-24 14:30:30;NORM.NS.CLOUDFLARE.COM;nan;eNom, Inc.
+diamond-stresser.com;nan;nan;2017-01-31 07:32:32;nan;nan;nan
+diamond-stresser.net;nan;nan;2017-01-31 07:32:32;nan;nan;nan
+diamond-stresser.pw;nan;nan;nan;nan;nan;nan
+diebooter.com;2014-07-18 08:48:23;2017-07-18 08:48:23;2016-06-17 06:36:58;RUTH.NS.CLOUDFLARE.COM;domainabuse@tucows.com;TUCOWS, INC.
+diebooter.net;2014-07-18 08:48:52;2017-07-18 08:48:52;2016-06-22 03:44:02;OLGA.NS.CLOUDFLARE.COM;domainabuse@tucows.com;TUCOWS, INC.
+divinestresser.com;2013-12-13 18:23:00;2017-12-13 18:23:09;2017-01-17 19:06:13;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+divinestresser.info;nan;nan;nan;nan;nan;nan
+dmbooter.net;nan;nan;2017-01-31 07:33:02;nan;nan;nan
+dns-ddos.net;nan;nan;2017-01-31 07:33:02;nan;nan;nan
+down-stresser.com;2016-02-29 08:45:20;2017-02-28 08:45:20;2017-01-25 11:12:31;aria.ns.cloudflare.com;abuse@internet.bs;Internet Domain Service BS Corp.
+down-stresser.us;2014-08-06 22:50:36;2017-08-05 23:59:59;2016-09-20 01:31:59;DNS1.NAME-SERVICES.COM;nan;ENOM, INC.
+downboot.xyz;2016-01-14 00:00:00;2017-01-14 00:00:00;2017-01-15 01:41:49;CHAD.NS.CLOUDFLARE.COM;domains@crazydomains.com;CRAZY DOMAINS FZ-LLC
+downloaddosgamesfree.com;2016-12-16 00:00:00;2017-12-16 00:00:00;2016-12-26 00:00:00;ns2.emergencysi.com;abuse@uniregistry.com;UNIREGISTRAR CORP
+downthem.org;2014-07-17 01:45:35;2017-07-17 01:45:35;2016-07-18 02:02:51;MARY.NS.CLOUDFLARE.COM;nan;eNom, Inc.
+dream-stresser.com;2015-02-20 21:03:14;2017-02-20 21:03:14;2016-07-11 12:44:30;NS1.OFFSHORE4YOU.EU;domainabuse@tucows.com;TUCOWS, INC.
+dreamstresser.com;2016-03-27 06:00:00;2017-03-27 00:00:00;2016-03-28 00:00:00;nsg1.namebrightdns.com;abuse@NameBright.com;DropCatch.com 437 LLC
+dstresser.net;2016-10-11 06:49:33;2017-10-11 07:00:00;2016-10-13 10:06:30;NS15.ABOVE.COM;abuse@galcomm.com;Communigal Communication Ltd
+ebolastresser.com;2014-10-29 22:39:00;2017-10-29 22:39:20;2016-12-03 19:12:12;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+ebooter.5gbfree.com;nan;nan;2017-01-31 07:33:32;nan;nan;nan
+elite-booter.net;nan;nan;2017-01-31 07:33:32;nan;nan;nan
+elyxa-stresser.net;nan;nan;2017-01-31 07:33:32;nan;nan;nan
+emo-stresser.com;2015-08-07 22:08:30;2017-08-07 22:08:30;2016-10-11 00:00:00;NS7.ROOKDNS.COM;abuse@godaddy.com;GoDaddy.com, LLC
+epic-stresser.com;nan;nan;2017-01-31 07:33:47;nan;nan;nan
+equinoxstresser.net;2015-04-01 16:07:29;2017-04-01 00:00:00;2016-04-02 20:08:00;ns01.one.com;abuse@ascio.com;Ascio Technologies, Inc
+equivalent-stresser.net;nan;nan;2017-01-31 07:33:47;nan;nan;nan
+eraservices.co;nan;nan;2017-01-31 07:30:29;nan;nan;nan
+erast.pw;nan;nan;nan;nan;nan;nan
+eternal-stresser.com;nan;nan;2017-01-31 07:34:03;nan;nan;nan
+eternalstresser.pw;nan;nan;nan;nan;nan;nan
+evilbooter.net;2014-12-28 00:00:00;2016-12-28 00:00:00;2017-01-27 00:00:00;No;nan;ONLINE SAS
+exclusive-stresser.com;nan;nan;2017-01-31 07:34:03;nan;nan;nan
+exclusivestresser.net;nan;nan;2017-01-31 07:34:03;nan;nan;nan
+exhilebooter.net;nan;nan;2017-01-31 07:34:03;nan;nan;nan
+exile-stresser.net;2014-11-15 17:30:00;2017-11-15 17:30:16;2016-12-20 19:06:13;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+exitus.to;nan;nan;nan;nan;nan;nan
+exostress.in;2015-08-02 21:11:03;2017-08-02 21:11:03;2016-08-24 00:53:39;DNS1.REGISTRAR-SERVERS.COM;nan;eNom, Inc. (R46-AFIN)
+exotic-stresser.com;nan;nan;2017-01-31 07:34:17;nan;nan;nan
+expedientstresser.com;nan;nan;2017-01-31 07:34:17;nan;nan;nan
+exploitstresser.org;nan;nan;nan;nan;nan;nan
+exresolver.jouwweb.nl;nan;nan;nan;nan;nan;nan
+fagstresser.net;nan;nan;2017-01-31 07:34:33;nan;nan;nan
+fatal-stresser.com;nan;nan;2017-01-31 07:34:33;nan;nan;nan
+fbi-stresser.eu;nan;nan;nan;nan;nan;nan
+flashstresser.net;nan;nan;2017-01-31 07:34:33;nan;nan;nan
+foreverinfamous.com;2016-10-11 23:44:44;2017-10-11 23:44:44;2016-10-11 00:00:00;NS7.ROOKDNS.COM;abuse@godaddy.com;GoDaddy.com, LLC
+formalitystresser.com;2013-06-09 18:26:29;2017-06-09 18:26:29;2016-06-21 20:39:48;ns1.above.com;abuse@dynadot.com;DYNADOT LLC
+fpsfuture.info;nan;nan;nan;nan;nan;nan
+frankgijsgang.nl;nan;nan;nan;nan;nan;nan
+freestresser.net;2016-08-26 00:00:00;2017-08-26 00:00:00;2016-08-26 00:00:00;ns1.localhosty.com;abuse@regtons.com;GRANSY S.R.O D/B/A SUBREG.CZ
+frozenstresser.net;nan;nan;2017-01-31 07:34:48;nan;nan;nan
+getsmack.de;nan;nan;2015-07-15 21:38:45;ns1.parkingcrew.net;info@premiumregistrations.com;nan
+ghoststresser.com;2016-08-09 02:33:00;2017-08-09 02:33:00;2016-08-08 19:33:25;12.SUCURIDNS.COM;abuse@enom.com;ENOM, INC.
+gigabooter.com;nan;nan;2017-01-31 07:35:03;nan;nan;nan
+globalstresser.net;nan;nan;2017-01-31 07:35:03;nan;nan;nan
+grimboot.com;nan;nan;2017-01-31 07:35:19;nan;nan;nan
+grimbooter.com;2013-01-20 23:43:00;2018-01-20 23:43:04;2017-01-15 05:22:46;ALEX.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+h4x-stresser.us;nan;nan;2017-01-31 07:34:03;nan;nan;nan
+hazebooter.com;2013-09-26 17:16:00;2017-09-26 17:16:49;2016-10-31 19:16:13;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+heavystresser.com;2014-08-04 00:00:00;2017-08-04 00:00:00;2015-10-26 00:00:00;ALI.NS.CLOUDFLARE.COM;registrar-abuse@google.com;Google Inc.
+heddos.net;nan;nan;2017-01-31 07:35:19;nan;nan;nan
+hexstresser.net;nan;nan;2017-01-31 07:35:33;nan;nan;nan
+horizon-stresser.eu;nan;nan;nan;nan;nan;nan
+hornystress.me;2014-10-20 13:13:46;2017-10-20 13:13:46;2016-10-29 18:00:07;DAVE.NS.CLOUDFLARE.COM;nan;NameCheap, Inc.
+hydrostress.com;1999-11-21 19:17:39;2017-11-21 19:17:38;2016-11-22 08:33:03;ns.udag.org;abuse@united-domains.de;united domains AG
+hydrostress.net;nan;nan;2017-01-31 07:35:33;nan;nan;nan
+hyperstresser.com;nan;nan;2017-01-31 07:35:33;nan;nan;nan
+iceberg-stresser.com;nan;nan;2017-01-31 07:35:49;nan;nan;nan
+iddos.net;2013-06-17 05:41:34;2017-06-17 05:41:34;2015-05-19 04:30:35;DION.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+illuminati-products.net;2016-09-25 00:00:00;2017-09-25 00:00:00;2016-09-25 00:00:00;ns1.localhosty.com;abuse@regtons.com;GRANSY S.R.O D/B/A SUBREG.CZ
+imbeingddosed.com;nan;nan;2017-01-31 07:35:49;nan;nan;nan
+imsocool.info;nan;nan;nan;nan;nan;nan
+inboot.me;2014-02-02 21:35:42;2017-02-02 21:35:42;2016-08-05 16:58:14;LARA.NS.CLOUDFLARE.COM;nan;NameCheap, Inc.
+infectedstresser.com;2016-10-24 12:44:00;2017-10-24 12:44:00;2016-10-24 05:44:14;DNS1.REGISTRAR-SERVERS.COM;abuse@enom.com;ENOM, INC.
+infectedstresser.net;nan;nan;2017-01-31 07:36:04;nan;nan;nan
+instinctproducts.com;2015-07-19 14:00:30;2017-07-19 19:49:16;2016-06-06 22:08:13;NS1.DOMAINDISCOVER.COM;icann-abuse-reports@tierra.net;TIERRANET INC. DBA DOMAINDISCOVER
+ionbooter.com;2013-12-10 22:55:00;2017-12-10 22:55:48;2017-01-15 19:09:12;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+ipstresser.co;2014-01-31 03:37:53;2017-01-30 23:59:59;2016-02-01 06:17:40;RITA.NS.CLOUDFLARE.COM;nan;1API GMBH
+ipstresser.com;2013-05-01 02:36:42;2017-06-01 11:59:59;2015-09-15 21:45:04;KIP.NS.CLOUDFLARE.COM;abuse@easydns.com;easyDNS Technologies, Inc.
+ipstressers.net;nan;nan;2017-01-31 07:36:19;nan;nan;nan
+ipstresstest.com;2017-01-29 19:33:39;2018-01-29 19:33:39;2017-01-30 01:24:18;ns1626.ztomy.com;admin@newvcorp.com;Pipeline Domains, LLC
+iridiumstresser.net;nan;nan;2017-01-31 07:36:19;nan;nan;nan
+isitdownyet.com;2014-01-25 14:37:00;2017-01-25 14:37:37;2017-01-26 00:17:03;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+jedistresser.com;nan;nan;2017-01-31 07:36:19;nan;nan;nan
+jetbooter.com;nan;nan;2017-01-31 07:36:35;nan;nan;nan
+jitterstresser.com;2015-08-22 20:26:50;2017-08-22 20:26:50;2016-10-02 03:24:54;duke.ns.cloudflare.com;abuse@1and1.com;1&1 Internet SE
+k-stress.pw;2014-08-13 06:38:20;2017-08-13 23:59:59;2015-08-21 05:04:12;brad.ns.cloudflare.com;abuse@namecheap.com;NAMECHEAP INC
+kappastresser.nl;nan;nan;nan;david.ns.cloudflare.com;nan;Hostnet bv
+kenkastresser.com;2016-06-05 18:00:13;2017-06-05 18:00:13;2016-06-06 06:01:09;ivy.ns.cloudflare.com;abuse@united-domains.de;united domains AG
+kidstresser.com;nan;nan;2017-01-31 07:36:49;nan;nan;nan
+kryptonic.pw;2016-01-12 17:08:03;2018-01-12 23:59:59;2016-02-18 12:17:17;DNS101.REGISTRAR-SERVERS.COM;abuse@namecheap.com;NAMECHEAP INC
+kryptonstresser.com;nan;nan;2017-01-31 07:36:49;nan;nan;nan
+kushbooter.org;nan;nan;nan;nan;nan;nan
+layer7.pw;2014-09-06 18:32:39;2017-09-06 23:59:59;2015-09-14 05:32:49;leah.ns.cloudflare.com;abuse@namecheap.com;NAMECHEAP INC
+legendboots.tk;nan;nan;nan;nan;nan;nan
+legionboot.com;2013-07-11 14:28:11;2017-07-11 14:28:11;2016-12-26 09:43:14;dora.ns.cloudflare.com;abuse-contact@publicdomainregistry.com;PDR Ltd. d/b/a PublicDomainRegistry.com
+legionbooter.info;nan;nan;nan;nan;nan;nan
+lexsk-stresser.fr;nan;nan;nan;nan;nan;nan
+lifetimeboot.com;2014-07-11 13:01:00;2017-07-11 13:01:26;2016-10-04 13:27:20;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+lifetimes.pw;nan;nan;nan;nan;nan;nan
+logicstresser.com;2015-05-30 01:15:50;2017-05-30 01:15:50;2016-05-30 08:09:22;igor.ns.cloudflare.com;abuse@1and1.com;1&1 Internet SE
+logicstresser.net;2015-05-30 01:15:51;2017-05-30 01:15:51;2016-05-30 08:09:22;igor.ns.cloudflare.com;abuse@1and1.com;1&1 Internet SE
+luckybooteronline.altervista.org;nan;nan;nan;nan;nan;nan
+lunarstresser.com;nan;nan;2017-01-31 07:37:19;nan;nan;nan
+magmastresser.com;nan;nan;2017-01-31 07:37:19;nan;nan;nan
+masterboot.net;2016-02-03 00:00:00;2017-02-03 00:00:00;2017-01-30 00:00:00;No;nan;HEBEI GUOJI MAOYI (SHANGHAI) LTD DBA HEBEIDOMAINS.COM
+maximumstresser.com;2014-09-28 13:04:55;2017-09-28 13:04:55;2016-09-29 07:18:40;curt.ns.cloudflare.com;abuse@1and1.com;1&1 Internet SE
+maxstresser.com;nan;nan;2017-01-31 07:37:34;nan;nan;nan
+mercilesstresser.com;2013-10-30 05:00:15;2017-10-30 05:00:15;2016-09-30 07:28:34;ALEX.NS.CLOUDFLARE.COM;domainabuse@tucows.com;TUCOWS, INC.
+metro-stresser.ga;nan;nan;nan;nan;nan
+microstresser.net;2015-05-28 15:29:00;2017-05-28 15:29:28;2016-07-11 03:38:38;NS1.TRENTAHOST.COM;abuse@enom.com;ENOM, INC.
+minecraftstresser.com;2015-04-24 00:00:00;2017-04-24 00:00:00;2016-03-23 00:00:00;NS27.ROOKDNS.COM;nan;NAMEKING.COM, INC.
+mini-booter.com;nan;nan;2017-01-31 07:38:20;nan;nan;nan
+most-booter.info;nan;nan;nan;nan;nan;nan
+mystresser.com;2016-05-10 01:17:06;2017-05-10 01:17:06;2016-10-21 23:20:50;ns1.softwayssolutions.com;abuse@instra.com;Instra Corporation Pty Ltd.
+myutro-stresser.com;nan;nan;2017-01-31 07:38:34;nan;nan;nan
+national-stresser.com;2016-11-30 17:55:06;2017-11-30 17:55:06;2016-12-06 12:07:13;NS15.ABOVE.COM;abuse@enom.com;ENOM, INC.
+national-stresser.net;2016-06-05 03:28:00;2018-06-05 03:28:00;2016-06-17 00:00:00;NS09.DOMAINCONTROL.COM;abuse@wildwestdomains.com;Wild West Domains, LLC
+nemesisbooter.com;nan;nan;2017-01-31 07:38:50;nan;nan;nan
+neptunestresser.com;nan;nan;2017-01-31 07:38:50;nan;nan;nan
+net-boot.net;nan;nan;2017-01-31 07:38:50;nan;nan;nan
+netbooter.info;nan;nan;nan;nan;nan;nan
+netbreak.ec;2014-03-31 00:00:00;2017-03-31 00:00:00;2016-08-17 00:00:00;cody.ns.cloudflare.com;teks@unseen.is;NIC.EC Registrar
+netspoof.com;2016-02-07 07:00:00;2017-02-07 00:00:00;2016-02-08 00:00:00;nsg1.namebrightdns.com;abuse@NameBright.com;DropCatch.com 941 LLC
+netspoof.net;2015-02-11 00:11:00;2017-02-11 00:11:25;2017-01-27 05:13:01;JEAN.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+netstress.net;2015-05-05 12:00:29;2017-05-05 12:00:29;2016-04-11 06:08:40;ns1bqx.name.com;abuse@name.com;Name.com, Inc.
+network-stresser.net;nan;nan;2017-01-31 07:39:06;nan;nan;nan
+network-stressing.net;2015-10-24 00:48:00;2017-10-24 00:48:32;2016-09-22 20:55:32;DNS1.REGISTRAR-SERVERS.COM;abuse@enom.com;ENOM, INC.
+network.apocalypse-solutions.com;nan;nan;2017-01-31 07:39:06;nan;nan;nan
+networkstresser.com;2014-05-07 15:00:00;2017-05-07 15:00:37;2015-05-08 08:30:13;DION.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+networkstresser.net;2014-08-12 01:27:00;2017-08-12 01:27:32;2016-10-04 13:27:20;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+networkstresser.org;nan;nan;nan;nan;nan;nan
+neverddos.com;2010-10-19 10:20:45;2017-10-19 10:20:45;2015-12-11 23:14:06;roxy.ns.cloudflare.com;abuse@internet.bs;Internet Domain Service BS Corp.
+nightlystresser.ml;2015-08-06 00:00:00;2025-05-06 00:00:00;nan;nan;abuse@freenom.com;Point ML Domain Registry
+nightstress.net;nan;nan;2017-01-31 07:39:20;nan;nan;nan
+nismitstresser.net;nan;nan;2017-01-31 07:39:20;nan;nan;nan
+nitrousstresser.com;nan;nan;2017-01-31 07:39:20;nan;nan;nan
+notoriousbooter.com;nan;nan;2017-01-31 07:39:20;nan;nan;nan
+nuclearipstresser.com;nan;nan;2017-01-31 07:39:20;nan;nan;nan
+nuke.pe.hu;nan;nan;nan;nan;nan
+nullednetwork.com;2016-09-21 00:00:00;2017-09-21 00:00:00;2016-09-21 00:00:00;NS.PHX1.NEARLYFREESPEECH.NET;registrar-abuse@google.com;Google Inc.
+obeystresser.com;nan;nan;2017-01-31 07:39:35;nan;nan;nan
+ocstresser.com;nan;nan;2017-01-31 07:39:35;nan;nan;nan
+olympusstresser.org;2016-07-03 19:16:34;2017-07-03 19:16:34;2016-09-02 03:46:43;NS1.LOCALHOSTY.COM;nan;Gransy s.r.o. d/b/a subreg.cz
+omegastresser.com;2016-12-22 00:00:00;2017-12-22 00:00:00;2016-12-22 00:00:00;NS1.2KZ.NET;nan;PDR LTD. D/B/A PUBLICDOMAINREGISTRY.COM
+onestresser.net;2014-03-13 19:37:11;2017-03-13 19:37:11;2014-10-07 07:56:40;andy.ns.cloudflare.com;abuse@ovh.net;OVH, SAS
+onionbooter.com;nan;nan;2017-01-31 07:40:37;nan;nan;nan
+onionstresser.com;2016-05-02 11:31:43;2017-05-02 11:31:43;2016-05-15 00:00:00;NS09.DOMAINCONTROL.COM;abuse@godaddy.com;GoDaddy.com, LLC
+onlinebooter.net;nan;nan;2017-01-31 07:40:37;nan;nan;nan
+opaquebooter.weebly.com;nan;nan;2017-01-31 07:40:37;nan;nan;nan
+optimusstresser.com;2016-04-07 18:59:15;2017-04-07 18:59:15;2016-10-06 19:29:16;ns15.above.com;b6b1a9roi8j0j829dd53ldrfh3@domaindiscreet.com;Dropcatch Auction LLC
+orcahub.com;2015-05-08 07:58:00;2017-05-08 07:58:20;2016-04-09 05:42:58;DNS1.REGISTRAR-SERVERS.COM;abuse@enom.com;ENOM, INC.
+parabooter.com;2015-05-18 17:48:00;2017-05-18 17:48:49;2016-05-04 05:25:51;ISAAC.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+payperboot.net;nan;nan;2017-01-31 07:40:52;nan;nan;nan
+pbooter.com;nan;nan;2017-01-31 07:40:52;nan;nan;nan
+phoenixstresser.com;2014-04-13 00:37:00;2018-04-13 00:37:00;2016-12-27 00:00:00;ns1.dtnt.info;abuse@dtnt.com;DomainTheNet.com
+pineapple-stresser.com;2015-04-07 20:24:00;2017-04-07 20:24:50;2016-04-08 15:04:13;CONNIE.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+pokent.com;2016-01-25 17:33:49;2018-01-25 17:33:49;2017-01-26 00:00:00;NS53.DOMAINCONTROL.COM;abuse@godaddy.com;GoDaddy.com, LLC
+powerdos.co.uk;2014-11-24 00:00:00;2016-11-24 00:00:00;2015-11-25 00:00:00;ns1.hostinger.co.uk;nan;GoDaddy.com, LLP. [Tag = GODADDY]
+powerstress.com;2013-05-21 04:31:00;2017-05-21 04:31:00;2016-10-04 14:02:18;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+powerstresser.com;2013-08-29 06:47:06;2017-08-29 06:47:06;2016-09-06 08:59:26;RUTH.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+prevail.pw;nan;nan;nan;nan;nan;nan
+primestresser.pw;nan;nan;nan;nan;nan;nan
+private-stresser.com;nan;nan;2017-01-31 07:41:22;nan;nan;nan
+pulsebooter.net;nan;nan;2017-01-31 07:41:22;nan;nan;nan
+purestress.net;2015-05-25 22:56:03;2017-05-25 22:56:03;2016-04-04 00:00:00;IRIS.NS.CLOUDFLARE.COM;abuse@godaddy.com;GoDaddy.com, LLC
+quantumbooter.net;2012-07-01 07:11:26;2017-07-01 07:11:26;2016-07-02 00:00:00;NORM.NS.CLOUDFLARE.COM;abuse@godaddy.com;GoDaddy.com, LLC
+quantumstresser.com;nan;nan;2017-01-31 07:41:22;nan;nan;nan
+quantumstresser.net;nan;nan;2017-01-31 07:41:22;nan;nan;nan
+quezstresser.com;2015-03-20 23:10:00;2017-03-20 23:10:34;2016-03-15 04:39:06;JEROME.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+ragebooter.com;2013-01-01 22:33:00;2018-01-01 22:33:42;2017-01-04 14:31:13;ALEX.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+ragebooter.net;2011-10-28 14:40:00;2018-10-28 14:40:00;2016-04-16 04:29:50;ALEX.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+raidstresser.com;nan;nan;2017-01-31 07:41:37;nan;nan;nan
+rav3nstresser.net;nan;nan;2017-01-31 07:41:37;nan;nan;nan
+rawlayer.com;2016-10-20 00:00:00;2017-10-20 00:00:00;2017-01-01 00:00:00;No;nan;GODADDY.COM, LLC
+realystresser.com;nan;nan;2017-01-31 07:41:52;nan;nan;nan
+rebel-security.com;nan;nan;2017-01-31 07:41:52;nan;nan;nan
+rebornstresser.net;nan;nan;2017-01-31 07:41:52;nan;nan;nan
+red-stresser.com;nan;nan;2017-01-31 07:41:52;nan;nan;nan
+refinedstresser.net;nan;nan;2017-01-31 07:41:52;nan;nan;nan
+rekbitch.com;2016-08-08 00:00:00;2017-08-08 00:00:00;2016-08-24 00:00:00;ns1.localhosty.com;abuse@regtons.com;GRANSY S.R.O D/B/A SUBREG.CZ
+renegade-products.net;2015-11-25 00:00:00;2016-11-25 00:00:00;2016-11-26 00:00:00;ns1.hastydns.com;nan;HEBEI GUOJI MAOYI (SHANGHAI) LTD DBA HEBEIDOMAINS.COM
+respawn.ca;nan;nan;nan;nan;nan
+restartstresser.com;nan;nan;2017-01-31 07:42:08;nan;nan;nan
+restricted-stresser.info;2013-04-04 21:12:42;2017-04-04 21:12:42;2016-03-13 16:43:04;ISLA.NS.CLOUDFLARE.COM;nan;Name.com LLC
+riotstresser.com;2015-04-27 17:17:19;2017-04-27 00:00:00;2016-04-28 21:17:49;ns01.one.com;abuse@ascio.com;Ascio Technologies, Inc
+routerslap.com;2015-07-28 21:56:00;2017-07-28 21:56:20;2016-06-29 04:26:11;DNS1.REGISTRAR-SERVERS.COM;abuse@enom.com;ENOM, INC.
+royalbooter.de;nan;nan;2016-06-13 17:40:07;ns1.above.com;john.obeye@gmail.com;nan
+safestresser.com;2016-12-19 23:46:43;2017-12-19 23:46:43;2016-12-24 13:36:31;NS15.ABOVE.COM;abuse@enom.com;ENOM, INC.
+securitystresser.net;nan;nan;2017-01-31 07:42:22;nan;nan;nan
+sexybooter.net;nan;nan;2017-01-31 07:42:22;nan;nan;nan
+shamar.hol.es;nan;nan;nan;nan;nan;nan
+signalstresser.com;2014-03-05 08:58:00;2017-03-05 08:58:00;2017-01-18 10:59:37;RUTH.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+silence-stresser.com;2015-02-27 17:13:47;2017-02-27 16:13:47;2016-09-30 06:49:52;curt.ns.cloudflare.com;abuse@1and1.com;1&1 Internet SE
+silverstresser.com;nan;nan;2017-01-31 07:42:38;nan;nan;nan
+skidbooter.info;2013-05-09 22:54:38;2017-05-09 22:54:38;2016-05-14 16:01:15;COCO.NS.CLOUDFLARE.COM;nan;GoDaddy.com, LLC
+skidstresser.net;nan;nan;2017-01-31 07:42:38;nan;nan;nan
+skypebooter.com;nan;nan;2017-01-31 07:42:38;nan;nan;nan
+skypestresser.com;nan;nan;2017-01-31 07:42:52;nan;nan;nan
+skystresser.com;nan;nan;2017-01-31 07:42:52;nan;nan;nan
+smokestresser.com;nan;nan;2017-01-31 07:42:52;nan;nan;nan
+snow-services.com;2016-10-10 00:00:00;2017-10-10 00:00:00;2016-10-10 00:00:00;ns1.localhosty.com;abuse@regtons.com;GRANSY S.R.O D/B/A SUBREG.CZ
+snowstresser.com;nan;nan;2017-01-31 07:42:52;nan;nan;nan
+snowstresser.net;nan;nan;2017-01-31 07:42:52;nan;nan;nan
+spboot.net;2017-01-12 07:00:00;2018-01-12 00:00:00;2017-01-12 00:00:00;ns1.mytrafficmanagement.com;abuse@NameBright.com;DropCatch.com 1360 LLC
+speed-stresser.com;2015-04-17 18:49:21;2017-04-17 18:49:21;2016-08-02 00:00:00;NS7.ROOKDNS.COM;abuse@godaddy.com;GoDaddy.com, LLC
+spoofedboot.com;nan;nan;2017-01-31 07:43:08;nan;nan;nan
+stagestresser.com;2016-04-26 18:34:34;2017-04-26 18:34:34;2016-04-27 02:39:46;ns1.dnsnuts.com;janeverno@gmail.com;Ethos Domains, LLC
+starkstresser.com;nan;nan;2017-01-31 07:43:08;nan;nan;nan
+stealthstresser.info;nan;nan;nan;nan;nan;nan
+stormstresser.co;nan;nan;2017-01-31 07:38:18;nan;nan;nan
+stormstresser.net;2014-09-23 17:39:00;2017-09-23 17:39:25;2016-09-26 18:15:14;ED.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+str3ssed.me;2014-11-08 11:48:09;2017-11-08 11:48:09;2016-03-11 11:00:46;BETH.NS.CLOUDFLARE.COM;nan;NameCheap, Inc.
+str3sser.com;nan;nan;2017-01-31 07:43:22;nan;nan;nan
+stress-me.fr;nan;nan;nan;nan;nan;nan
+stress-me.io;nan;nan;nan;nan;nan
+stress-me.net;2016-06-08 18:51:39;2017-06-08 18:51:39;2016-10-05 02:30:45;ns16.above.com;4f0fb45g22g8l8us1ke4ujphm0@domaindiscreet.com;Domainarmada.com LLC
+stress.so;nan;nan;nan;nan;nan;nan
+stressboss.net;2014-03-24 03:20:00;2018-03-24 03:20:21;2016-03-19 05:35:42;JADE.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+stressed.pw;2016-06-01 08:05:58;2017-06-01 23:59:59;2016-06-27 11:28:39;ns1.kdnetworks.net;abuse@namecheap.com;NAMECHEAP INC
+stressem-networks.pw;nan;nan;nan;nan;nan;nan
+stressem.ninja;nan;nan;nan;nan;nan;nan
+stresser.cc;2016-04-20 13:59:28;2017-04-20 13:59:28;2016-05-02 06:51:15;dns10.hichina.com;abuse@list.alibaba-inc.com;HICHINA ZHICHENG TECHNOLOGY LTD.
+stresser.club;2015-08-10 17:04:42;2017-08-09 23:59:59;2016-07-30 16:21:40;CORY.NS.CLOUDFLARE.COM;nan;GoDaddy.com, Inc.
+stresser.in;2014-12-31 03:28:50;2017-12-31 03:28:50;2017-01-01 03:49:38;AMY.NS.CLOUDFLARE.COM;nan;Ascio Technologies, Inc. (R41-AFIN)
+stresser.info;2016-05-23 20:46:49;2017-05-23 20:46:49;2016-07-23 20:30:26;DNS1.REGISTRAR-SERVERS.COM;abuse@namecheap.com;NameCheap, Inc
+stresser.org;2016-07-03 14:48:28;2017-07-03 14:48:28;2016-09-02 03:46:23;NS1.SEDOPARKING.COM;nan;GoDaddy.com, LLC
+stresser.ru;2016-02-24 00:00:00;2017-02-24 00:00:00;2017-01-31 10:41:33;lila.ns.cloudflare.com;nan;NAUNET-RU
+stresserbooter.com;nan;nan;2017-01-31 07:45:25;nan;nan;nan
+stresserddos.com;nan;nan;2017-01-31 07:45:25;nan;nan;nan
+stresserit.com;nan;nan;2017-01-31 07:45:25;nan;nan;nan
+strong-stresser.com;2014-12-24 21:38:00;2018-12-24 21:38:18;2015-11-25 04:28:36;NS1.STRONG-STRESSER.COM;abuse@enom.com;ENOM, INC.
+stuxstresser.com;2015-05-21 11:44:00;2017-05-21 11:44:36;2016-10-04 13:27:20;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+superstresser.com;2015-07-20 17:36:10;2017-07-20 17:36:10;2016-02-23 17:10:02;ns1.parkingcrew.net;abuse@key-systems.net;Key-Systems GmbH
+superstresser.net;nan;nan;2017-01-31 07:45:40;nan;nan;nan
+synstress.net;2015-10-16 00:20:00;2017-10-16 00:20:23;2016-10-11 04:56:15;DNS1.REGISTRAR-SERVERS.COM;abuse@enom.com;ENOM, INC.
+talkshitgethit.comli.com;nan;nan;2017-01-31 07:45:40;nan;nan;nan
+terminalstresser.net;2016-10-11 00:00:00;2017-10-11 00:00:00;2016-10-11 00:00:00;ns1.localhosty.com;abuse@regtons.com;GRANSY S.R.O D/B/A SUBREG.CZ
+teslabooter.com;nan;nan;2017-01-31 07:45:55;nan;nan;nan
+thebooter.co;nan;nan;2017-01-31 07:42:59;nan;nan;nan
+thestresser.com;2015-02-07 07:12:00;2017-02-07 07:12:31;2017-01-24 04:56:05;DNS1.REGISTRAR-SERVERS.COM;abuse@enom.com;ENOM, INC.
+tingboot.info;nan;nan;nan;nan;nan;nan
+titanbooter.net;nan;nan;2017-01-31 07:45:55;nan;nan;nan
+titaniumbooter.comuv.com;nan;nan;2017-01-31 07:46:10;nan;nan;nan
+titaniumbooter.net;2016-02-06 00:02:00;2017-02-06 00:02:53;2017-01-22 05:43:02;CONNIE.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+titaniumstresser.net;2013-09-12 00:00:00;2019-09-12 00:00:00;2015-02-04 19:02:52;EVA.NS.CLOUDFLARE.COM;domains@crazydomains.com;CRAZY DOMAINS FZ-LLC
+topstressers.com;2014-11-14 18:38:00;2017-11-14 18:38:11;2016-10-16 05:30:35;ALEX.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+ufa-booters-tools.com;2015-02-19 19:01:48;2017-02-19 19:01:48;2016-02-18 14:37:16;ns1.dnsnuts.com;dvld6mgtbgjvmas93u1pat25k3@domaindiscreet.com;Klaatudomains.com LLC
+umbstresser.net;2015-01-05 13:39:35;2017-01-05 13:39:35;2017-01-05 13:45:06;ns1-148.axc.nl;nan;REALTIME REGISTER B.V.
+unob.ninja;nan;nan;nan;nan;nan;nan
+unseenbooter.com;2014-09-30 20:15:58;2017-09-30 20:15:58;2016-11-27 15:48:30;ns.buydomains.com;abuse-contact@publicdomainregistry.com;PDR Ltd. d/b/a PublicDomainRegistry.com
+ustress.co;2015-01-16 05:20:31;2017-01-15 23:59:59;2017-01-21 17:02:40;NS1.PARKCO1.NEUSTAR.BIZ;nan;NAMECHEAP, INC.
+v3rmillionbooter.info;nan;nan;nan;nan;nan;nan
+vastresser.ru;nan;nan;2017-01-31 10:46:34;nan;nan;nan
+vbooter.com;2013-02-23 16:05:35;2017-02-23 16:05:35;2015-07-02 04:26:03;ns1.bodis.com;abuse@tldregistrarsolutions.com;TLD Registrar Solutions Ltd.
+vbooter.org;2014-02-17 19:55:51;2017-02-17 19:55:51;2017-01-29 17:10:47;RICK.NS.CLOUDFLARE.COM;nan;eNom, Inc.
+vdos-s.com;2014-08-01 23:35:37;2018-08-01 23:35:37;2016-10-14 21:01:21;No;abuse@support.gandi.net;GANDI SAS
+vdoss.net;2016-05-25 21:51:42;2017-05-25 21:51:42;2016-08-11 00:00:00;NS7.ROOKDNS.COM;abuse@godaddy.com;GoDaddy.com, LLC
+vegastresser.net;nan;nan;2017-01-31 07:46:40;nan;nan;nan
+vengeancestresser.com;nan;nan;2017-01-31 07:46:40;nan;nan;nan
+vex-stresser.net;2015-07-26 20:03:05;2017-07-26 20:03:05;2016-06-21 07:15:43;ns27.rookdns.com;nan;NameKing.com, Inc.
+vietbooter.com;nan;nan;2017-01-31 07:46:55;nan;nan;nan
+vps-booter.com;nan;nan;2017-01-31 07:46:55;nan;nan;nan
+vpstresser.com;nan;nan;2017-01-31 07:46:55;nan;nan;nan
+webbooter.com;2016-05-25 22:26:00;2017-05-25 22:26:00;2016-05-25 15:26:44;NINA.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+webstresser.co;2015-07-15 03:23:01;2017-07-14 23:59:59;2016-10-29 23:21:36;CLEO.NS.CLOUDFLARE.COM;nan;NAMECHEAP, INC.
+westsidebooter.com;nan;nan;2017-01-31 07:47:11;nan;nan;nan
+wickedstresser.com;nan;nan;2017-01-31 07:47:11;nan;nan;nan
+wifistruggles.com;2014-10-21 01:34:00;2017-10-21 01:34:24;2016-10-06 05:24:11;COBY.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+wifistruggles.net;2015-02-24 15:52:15;2017-02-24 00:00:00;2016-02-25 20:52:48;ns01.one.com;abuse@ascio.com;Ascio Technologies, Inc
+wifistruggles.org;nan;nan;nan;nan;nan;nan
+wifistruggles.pw;nan;nan;nan;nan;nan;nan
+wifistruggles.us;nan;nan;2017-01-31 07:46:04;nan;nan;nan
+wnddos.com;nan;nan;2017-01-31 07:47:25;nan;nan;nan
+wrtu-stresser.com;nan;nan;2017-01-31 07:47:25;nan;nan;nan
+xbloutlawz.info;nan;nan;nan;nan;nan;nan
+xboot.net;2016-11-20 07:00:00;2017-11-20 00:00:00;2016-11-22 00:00:00;ns1.sedoparking.com;abuse@NameBright.com;DropCatch.com 959 LLC
+xenon-stresser.com;2016-07-19 21:21:53;2017-07-19 21:21:53;2016-08-04 00:00:00;NS37.DOMAINCONTROL.COM;abuse@godaddy.com;GoDaddy.com, LLC
+xplodestresser.pw;nan;nan;nan;nan;nan;nan
+xr8edstresser.com;2016-11-28 08:22:29;2017-11-28 08:22:29;2016-12-07 00:00:00;NS1.EXPIEREDDNSMANAGER.COM;abuse@godaddy.com;GoDaddy.com, LLC
+xrshellbooter.com;2011-10-26 15:10:00;2017-10-26 15:10:28;2016-11-30 19:05:12;DNS1.NAME-SERVICES.COM;abuse@enom.com;ENOM, INC.
+xrstresser.net;2016-03-08 19:10:06;2017-03-08 19:10:06;2016-10-06 16:00:16;ns15.above.com;0di6ils15sj9obc7a11mnb7e1p@domaindiscreet.com;Domains of Origin, LLC
+xtreme.cc;2013-09-26 17:32:00;2017-09-26 17:32:00;2016-09-26 18:15:13;ED.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+xtremebooter.com;2016-07-14 22:38:58;2017-07-14 22:38:58;2016-10-04 00:00:00;NS7.ROOKDNS.COM;abuse@godaddy.com;GoDaddy.com, LLC
+yakuzastresser.com;2016-04-06 06:00:00;2017-04-06 00:00:00;2016-04-07 00:00:00;nsg1.namebrightdns.com;abuse@NameBright.com;DropCatch.com 673 LLC
+youboot.net;2015-05-22 15:44:00;2017-05-22 15:44:00;2015-09-27 00:00:52;DNS1.REGISTRAR-SERVERS.COM;abuse@enom.com;ENOM, INC.
+z7inc.com;nan;nan;2017-01-31 07:48:10;nan;nan;nan
+zenstresser.net;nan;nan;2017-01-31 07:48:10;nan;nan;nan
+zstress.info;nan;nan;nan;nan;nan;nan
+zynenstresser.us;nan;nan;2017-01-31 07:46:04;nan;nan;nan
+9yrbrfyd.esy.es;nan;nan;nan;nan;nan;nan
+ambushproducts.com;nan;nan;2017-01-31 07:48:10;nan;nan;nan
+bullstresser.ovh;2016-09-17 18:23:19;2017-09-17 18:23:19;2016-09-17 19:00:12;ns2.parkingcrew.net;idah0625@gmail.com;OVH
+chargen.cf;2015-04-12 00:00:00;2025-01-12 00:00:00;nan;nan;abuse@freenom.com;Dot CF Domain Registry
+devilstresser.net;nan;nan;2017-01-31 07:48:26;nan;nan;nan
+emaizstresser.net;nan;nan;2017-01-31 07:48:26;nan;nan;nan
+freebooter.co;2015-11-25 16:57:18;2017-11-24 23:59:59;2016-12-26 20:03:48;13.SUCURIDNS.COM;nan;NAMECHEAP, INC.
+freebooter4.me;2015-12-25 22:19:03;2017-12-25 22:19:03;2017-01-30 01:36:10;DNS101.REGISTRAR-SERVERS.COM;nan;NameCheap, Inc.
+freezystresser.nl;nan;nan;nan;ns1.parkingcrew.net;nan;Premium Registrations Sweden AB
+kth-stress.tk;nan;nan;nan;nan;abuse@freenom.com;Dot TK Domain Registry
+mafiastresser.com;nan;nan;2017-01-31 07:48:41;nan;nan;nan
+nfuze.cf;nan;nan;nan;nan;reserved at the Dot CF;Dot CF Domain Registry
+piratestresser.com;nan;nan;2017-01-31 07:48:41;nan;nan;nan
+time-stresser.pw;2016-11-25 08:24:27;2017-11-25 23:59:59;2016-11-30 08:27:15;NS1.PARKINGCREW.NET;nan;Epik LLC
+beststresser.com;2015-10-01 00:27:00;2017-10-01 00:27:45;2016-09-16 05:17:43;DAISY.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+boot.lu;2016-08-14 00:00:00;nan;nan;ns1.sedoparking.com;domainnameone@yahoo.com;nan
+critical-boot.com;2015-09-08 13:53:00;2017-09-08 13:53:47;2016-08-25 05:26:59;JONAH.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+cyberstresser.org;2016-01-23 22:35:15;2018-01-23 22:35:15;2017-01-27 20:57:13;NASH.NS.CLOUDFLARE.COM;nan;eNom, Inc.
+defcon.pro;2015-08-26 22:10:30;2017-08-26 22:10:30;2016-11-30 16:31:14;SETH.NS.CLOUDFLARE.COM;nan;Name.com LLC
+free-boot.xyz;2016-11-10 00:00:00;2017-11-10 00:00:00;2016-12-24 00:00:00;01.dnsv.jp;abuse@gmo.jp;GMO INTERNET, INC.
+freestresser.xyz;2017-01-27 00:00:00;2018-01-27 00:00:00;2017-01-27 00:00:00;01.dnsv.jp;abuse@gmo.jp;GMO INTERNET, INC.
+hoodstresser.xyz;2016-11-25 15:22:09;2017-11-25 23:59:59;2017-01-25 02:47:44;ns1.above.com;nan;PDR Ltd. d/b/a PublicDomainRegistry.com
+sharkstresser.com;2016-02-06 19:27:00;2017-02-06 19:27:44;2017-01-23 05:35:12;SARA.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+layer-4.com;2015-06-25 07:03:26;2017-06-25 07:03:26;2016-12-19 16:10:45;jack.ns.cloudflare.com;abuse@tldregistrarsolutions.com;TLD Registrar Solutions Ltd.
+masterstresser.com;2016-11-03 22:25:30;2017-11-03 22:25:30;2016-11-03 00:00:00;NS7.ROOKDNS.COM;abuse@godaddy.com;GoDaddy.com, LLC
+omega-stresser.us;2016-02-01 20:31:02;2017-01-31 23:59:59;2017-01-18 21:40:20;NS2.FREE-H.ORG;nan;GANDI SAS
+onestress.com;2016-02-20 12:10:32;2017-02-20 12:10:32;2017-01-21 11:18:44;SRI.NS.CLOUDFLARE.COM;abuse@support.gandi.net;GANDI SAS
+powerapi.pw;nan;nan;nan;nan;nan;nan
+privateroot.fr;2016-01-15 00:00:00;2018-01-15 00:00:00;2016-01-15 00:00:00;ns1.ibspark.com;nic@nic.fr;TLD Registrar Solutions Ltd
+reafstresser.ga;nan;nan;nan;nan;nan
+ts3booter.net;2015-10-11 16:24:55;2017-10-11 16:24:55;2016-10-08 20:58:08;ian.ns.cloudflare.com;abuse@name.com;Name.com, Inc.
+instabooter.com;2016-04-03 23:47:00;2017-04-03 23:47:00;2016-04-03 16:47:01;JEROME.NS.CLOUDFLARE.COM;abuse@enom.com;ENOM, INC.
+stresser.network;2015-10-01 00:27:22;2017-10-01 00:27:22;2017-01-08 21:13:33;roan.ns.cloudflare.com;abuse@enom.com;eNom, Inc.
