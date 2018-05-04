@@ -1,6 +1,8 @@
 ### This is an initiative to share the (most extensive) list of Websites that publicly offer DDoS attacks as a paid service, a.k.a. **Booters**, Stressers, DDoS for hire, DDoS as a Service, and DDoSers. 
 
-<h1> <input type="button" value="Download Booter (Black)List" href="https://google.com" style="display: block; margin: 0 auto;"> </h1>
+ <input type="button" value="Download Booter (Black)List" href="https://google.com" style="display: block; margin: 0 auto;"> 
+
+<h1><button name="button" onclick="http://www.google.com" style="display: block; margin: 0 auto;">Click me</button></h1>
 
 *This webpage is a front-page for the actual [GitHub repository](https://github.com/jjsantanna/booters_ecosystem_analysis) that (1) collects potential Booter Websites, (2) classify these potential Websites whether Booter or not, and (3) get additional information about each booter.* The analysis are centered in a single jupyter notebook that can be accessed [here!](booters_ecosystem_analysis.ipynb)
 
