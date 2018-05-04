@@ -40,6 +40,6 @@ The list contains both online and offline Booter websites. While the online Boot
 ---
 ![Caption for the picture.](/figs/alexarank_scatter.png)
 
-![](figs/alexarank_scatter.png =250x)
+![hame](figs/alexarank_scatter.png =250x)
 
 
