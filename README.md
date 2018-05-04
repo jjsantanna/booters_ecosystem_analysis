@@ -1,4 +1,5 @@
-<h3>This is an initiative to share the (most extensive) list of Booters</h3><h4>, which are Websites that publicly offer Distributed Denial of Service (DDoS) attacks as a paid service. Other common names of Booters are Stressers, DDoS for hire, DDoS as a Service, and DDoSers.</h4> 
+## This is an initiative to share the most extensive list of Booter Websites! 
+#### Booters are Websites that publicly offer Distributed Denial of Service (DDoS) attacks as a paid service. Other names for Booters are: Stressers, DDoS for hire, DDoS as a Service, and DDoSers.
 
  <a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booters_ecosystem_analysis.ipynb" target="_blank">
  <input type="button" value="Download Booter (Black)List" href="https://google.com" style="display: block; margin: 0 auto;"> 
@@ -8,15 +9,14 @@ If you use, for academic purposes, the Booter (Black)List **or** our methodology
 
 ```bibtex
 @phdthesis{jjsantanna2017thesis,
-          title = {\{DDoS-as-a-Service: Investigating Booter Websites\}},
+          title = { {DDoS-as-a-Service: Investigating Booter Websites} },
           author = {Santanna, Jose Jair},
           year = {2017}
           school = {University of Twente},
           address = {Enschede, The Netherlands},
           type = {Ph.D. thesis},
           isbn = {9789036544290},
-          doi = {10.3990/1.9789036544290},
-          url = {http://purl.org/utwente/doi/10.3990/1.9789036544290},
+          doi = {10.3990/1.9789036544290}
 }
 ```
 
