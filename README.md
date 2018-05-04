@@ -1,4 +1,4 @@
-## This is an initiative to share the most extensive list of Booter Websites! 
+## Sharing the most extensive list of Booter Websites in the Internet! 
 <a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booters_ecosystem_analysis.ipynb" target="_blank">
 <input type="button" value="DOWNLOAD!" href="https://google.com" style="display: block; margin: 0 auto;"> 
 </a>
