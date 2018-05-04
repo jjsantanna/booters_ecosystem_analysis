@@ -18,7 +18,9 @@ Our methodology to generate the Booter (Black)List is documented at (ordered by 
 
 
 
-- J.J. Santanna, R. de O. Schmidt, D. Tuncer, J. de Vries, L.Z. Granville, and A. Pras. **Booter Blacklist: Unveiling DDoS-for-hire Websites.** International Conference on Network and Service Management (CNSM). 2016. <details><summary>bibtex</summary> <p>Bibtex\n hamehame</p></details>
+- J.J. Santanna, R. de O. Schmidt, D. Tuncer, J. de Vries, L.Z. Granville, and A. Pras. **Booter Blacklist: Unveiling DDoS-for-hire Websites.** International Conference on Network and Service Management (CNSM). 2016. <details><summary>bibtex</summary> 
+ <p>Bibtex\n hamehame</p>
+</details>
 
 The usage of the Booter (Black)List is documented at:
 - J.J. Santanna, R. de O. Schmidt, D. Tuncer, A. Sperotto, L.Z. Granville, A. Pras. **Quite Dogs Can Bite: Which Booters Should We Go After? And What Are Our Mitigation Options?** IEEE Communication Magazine (ComMag) , 55 (7), pp. 50–56, 2017.
