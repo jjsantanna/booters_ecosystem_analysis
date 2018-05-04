@@ -1,51 +1,24 @@
-### This is an initiative to share the (most extensive) list of Websites that publicly offer DDoS attacks as a paid service, a.k.a. *Booters*, Stressers, DDoS for hire, DDoS as a Service, and DDoSers. 
+### This is an initiative to share the (most extensive) list of Websites that publicly offer DDoS attacks as a paid service, a.k.a. **Booters**, Stressers, DDoS for hire, DDoS as a Service, and DDoSers. 
 
-Actually, this is the front-page for [a GitHub repository](https://github.com/jjsantanna/booters_ecosystem_analysis) that analyses Booters. In the repository we (1) collect potential booter Websites, (2) classify these potential Websites for generating a list of booter (that we call 'booter blacklist'), (3) we enrich the information about each booter,
+<div> <input type="button" value="Download Booter (Black)List" href="https://google.com" style="display: block; margin: 0 auto;"> asd</div>
 
-<button name="button">Click me</button>
+Our methodology to generate the Booter (Black)List is documented at (ordered by the latest):
+- J.J. Santanna. *DDoS-as-a-Service: Investigating Booter Websites.* University of Twente, 2017, ISBN: 978-90-365-4429-0.
+- J.J. Santanna, R. de O. Schmidt, D. Tuncer, J. de Vries, L. Granville, and A. Pras. *Booter Blacklist: Unveiling DDoS-for-hire Websites.* International Conference on Network and Service Management (CNSM). 2016.
 
-<div> <input type="button" value="button" style="display: block; margin: 0 auto;"> </div>
+The usage of the Booter (Black)List is documented at:
+- J.J. Santanna, R. de O. Schmidt, D. Tuncer, A. Sperotto, L.Z. Granville, A. Pras. *Quite Dogs Can Bite: Which Booters Should We Go After? And What Are Our Mitigation Options?* IEEE Communication Magazine (ComMag) , 55 (7), pp. 50–56, 2017.
+- J.J. Santanna, R. de O. Schmidt, D. Tuncer, J. de Vries, L. Granville, and A. Pras. *Booter List Generation: The Basis for Investigating DDoS-for-hire Websites.* International Journal on Network Management (IJNM), 2017.
 
-The list contains both online and offline Booter websites. While the online Booters can be automatically used for blacklisting purpose, the offline Booters can be used for historical analysis of their Market.
 
-(1) collect  was created to support the analysis included in an academic article (under reviewing process) entitled **"Quiet Dogs Can Bite: What Booters We Should Go After? And Which Are Our Mitigation Options?"** . 
+Actually, this is just a front-page for [a GitHub repository](https://github.com/jjsantanna/booters_ecosystem_analysis) that analyses Booters. In the repository we (1) collect potential booter Websites, (2) classify these potential Websites whether Booter or not, and (3) get additional information about each booter.
+
+
+
+The list contains both online and offline Booter websites. While the online Booters can be automatically used for blacklisting purpose, the offline Booters can be used for historical analysis of their Market. For those that want only the online Booters, please dowload in the following button.
+
+<div> <input type="button" value="ONLY Online Booters" href="https://google.com" style="display: block; margin: 0 auto;"> </div>
+ 
 
 # To see our analysis please click [here!](booters_ecosystem_analysis.ipynb)
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jjsantanna/t/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjsantanna/t/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
