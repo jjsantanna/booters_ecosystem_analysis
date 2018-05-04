@@ -16,15 +16,7 @@ Our methodology to generate the Booter (Black)List is documented at (ordered by 
 
 
 <details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
+<p> Bibtex</p>
 </details>
 
 
