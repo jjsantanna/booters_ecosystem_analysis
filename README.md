@@ -1,4 +1,4 @@
-## Sharing the most extensive list of Booter Websites in the Internet! 
+## Sharing the most extensive list of Booter Websites!!!
 <a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booters_ecosystem_analysis.ipynb" target="_blank">
 <input type="button" value="DOWNLOAD!" href="https://google.com" style="display: block; margin: 0 auto;"> 
 </a>
@@ -36,5 +36,5 @@ The list contains both online and offline Booter websites. While the online Boot
 
 ### Examples of usage of the Booter (Black)List is documented at:
 - J.J. Santanna, R. de O. Schmidt, D. Tuncer, A. Sperotto, L.Z. Granville, A. Pras. **Quite Dogs Can Bite: Which Booters Should We Go After? And What Are Our Mitigation Options?** IEEE Communication Magazine (ComMag) , 55 (7), pp. 50–56, 2017.
-- [GitHub repository that analyses users that were monitored by using the Booter (Black)List](https://github.com/jjsantanna/booterblacklist_use_cases)
+- <a href="https://github.com/jjsantanna/booterblacklist_use_cases" target="_blank">GitHub repository that analyses users that were monitored by using the Booter (Black)List</a>
 
