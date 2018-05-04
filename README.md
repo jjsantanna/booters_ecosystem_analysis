@@ -44,4 +44,6 @@ The list contains both online and offline Booter websites. While the online Boot
 
 <img src="https://github.com/jjsantanna/booters_ecosystem_analysis/tree/master/figs/topranked_general.png" alt="drawing" style="width: 200px;"/>
 
-<img src="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/figs/topranked_general.png" width="200">
+<img src="url" alt="alt text" width="whatever" height="whatever">
+
+<img src="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/figs/topranked_general.png" alt="alt text" width=200px height=200px>
