@@ -37,4 +37,9 @@ The list contains both online and offline Booter websites. While the online Boot
 ### Examples of usage of the Booter (Black)List is documented at:
 - J.J. Santanna, R. de O. Schmidt, D. Tuncer, A. Sperotto, L.Z. Granville, A. Pras. **Quite Dogs Can Bite: Which Booters Should We Go After? And What Are Our Mitigation Options?** IEEE Communication Magazine (ComMag) , 55 (7), pp. 50–56, 2017.
 - <a href="https://github.com/jjsantanna/booterblacklist_use_cases" target="_blank">GitHub repository that analyses users that were monitored by using the Booter (Black)List</a>
+---
+a
+![Caption for the picture.](/figs/alexarank_scatter.eps)
+b
+![Caption for the picture.](figs/alexarank_scatter.eps)
 
