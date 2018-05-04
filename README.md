@@ -1,4 +1,4 @@
-### This is an initiative to share the (most extensive) list of Websites that publicly offer DDoS attacks as a paid service, a.k.a. **Booters**, Stressers, DDoS for hire, DDoS as a Service, and DDoSers. 
+<h3>This is an initiative to share the (most extensive) list of Booters</h3><h4>, which are Websites that publicly offer Distributed Denial of Service (DDoS) attacks as a paid service. Other common names of Booters are Stressers, DDoS for hire, DDoS as a Service, and DDoSers.</h4> 
 
  <a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booters_ecosystem_analysis.ipynb" target="_blank">
  <input type="button" value="Download Booter (Black)List" href="https://google.com" style="display: block; margin: 0 auto;"> 
