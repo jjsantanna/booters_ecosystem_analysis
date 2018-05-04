@@ -41,3 +41,7 @@ The list contains both online and offline Booter websites. While the online Boot
 <img src="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/figs/alexarank_scatter.png" data-canonical-src="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/figs/alexarank_scatter.png" width="400" />
 
 {% include image.html url="/figs/alexarank_scatter.png" description="My cat, Robert Downey Jr." %}
+
+{% include image.html url="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/figs/alexarank_scatter.png" description="hame." %}
+
+
