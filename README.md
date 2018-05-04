@@ -9,8 +9,8 @@ If you use, for academic purposes, the Booter (Black)List **OR** our methodology
 
 ```bibtex
 @phdthesis{jjsantanna2017thesis,
-          title = {{DDoS-as-a-Service: Investigating Booter Websites}},
-          author = {Santanna, Jose Jair},
+          title = {{DDoS-as-a-Service: Investigating Booter Websites} },
+          author = {Santanna, José Jair},
           year = {2017}
           school = {University of Twente},
           address = {Enschede, The Netherlands},
