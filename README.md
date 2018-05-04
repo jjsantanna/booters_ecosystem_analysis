@@ -13,6 +13,21 @@ The list contains both online and offline Booter websites. While the online Boot
 
 Our methodology to generate the Booter (Black)List is documented at (ordered by the latest):
 - J.J. Santanna. **DDoS-as-a-Service: Investigating Booter Websites.** University of Twente, 2017, ISBN: 978-90-365-4429-0.
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
+
 - J.J. Santanna, R. de O. Schmidt, D. Tuncer, J. de Vries, L.Z. Granville, and A. Pras. **Booter Blacklist: Unveiling DDoS-for-hire Websites.** International Conference on Network and Service Management (CNSM). 2016.
 
 The usage of the Booter (Black)List is documented at:
