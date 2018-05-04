@@ -1,7 +1,7 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Title: figs/topranked_general.png
 %%Creator: matplotlib version 2.0.2, http://matplotlib.org/
-%%CreationDate: Fri May  4 15:47:39 2018
+%%CreationDate: Fri May  4 16:09:02 2018
 %%Orientation: portrait
 %%BoundingBox: 59 128 552 663
 %%EndComments
@@ -1032,8 +1032,6 @@ gsave
 493.264666 534.330975 l
 0 534.330975 l
 cl
-1.000 setgray
-fill
 grestore
 gsave
 136.3875 22.825 m
@@ -1041,8 +1039,6 @@ gsave
 233.430978 457.705 l
 136.3875 457.705 l
 cl
-0.898 setgray
-fill
 grestore
 0.800 setlinewidth
 1 setlinejoin
@@ -3467,8 +3463,6 @@ gsave
 349.883152 457.705 l
 252.839674 457.705 l
 cl
-0.898 setgray
-fill
 grestore
 0.800 setlinewidth
 1 setlinejoin
@@ -4849,8 +4843,6 @@ gsave
 466.335326 457.705 l
 369.291848 457.705 l
 cl
-0.898 setgray
-fill
 grestore
 0.800 setlinewidth
 1 setlinejoin

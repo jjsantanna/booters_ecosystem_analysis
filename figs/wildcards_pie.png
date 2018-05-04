@@ -1,7 +1,7 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Title: figs/wildcards_pie.png
 %%Creator: matplotlib version 2.0.2, http://matplotlib.org/
-%%CreationDate: Fri May  4 15:48:06 2018
+%%CreationDate: Fri May  4 16:09:05 2018
 %%Orientation: portrait
 %%BoundingBox: 196 288 415 503
 %%EndComments
@@ -749,8 +749,6 @@ gsave
 219.332125 215.28 l
 0 215.28 l
 cl
-1.000 setgray
-fill
 grestore
 gsave
 104.4 29.44 m

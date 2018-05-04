@@ -1,7 +1,7 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Title: figs/topranked_domain_creation_expiration_scatter.png
 %%Creator: matplotlib version 2.0.2, http://matplotlib.org/
-%%CreationDate: Fri May  4 15:46:58 2018
+%%CreationDate: Fri May  4 16:09:00 2018
 %%Orientation: portrait
 %%BoundingBox: 175 134 436 657
 %%EndComments
@@ -926,8 +926,6 @@ gsave
 260.360318 522.205975 l
 0 522.205975 l
 cl
-1.000 setgray
-fill
 grestore
 gsave
 136.3875 10.7 m
@@ -935,8 +933,6 @@ gsave
 233.430978 445.58 l
 136.3875 445.58 l
 cl
-0.898 setgray
-fill
 grestore
 0.800 setlinewidth
 1 setlinejoin

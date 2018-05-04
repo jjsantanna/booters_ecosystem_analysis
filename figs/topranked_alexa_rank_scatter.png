@@ -1,7 +1,7 @@
 %!PS-Adobe-3.0 EPSF-3.0
 %%Title: figs/topranked_alexa_rank_scatter.png
 %%Creator: matplotlib version 2.0.2, http://matplotlib.org/
-%%CreationDate: Fri May  4 15:46:44 2018
+%%CreationDate: Fri May  4 16:08:59 2018
 %%Orientation: portrait
 %%BoundingBox: 183 128 428 663
 %%EndComments
@@ -970,8 +970,6 @@ gsave
 244.130978 534.330975 l
 0 534.330975 l
 cl
-1.000 setgray
-fill
 grestore
 gsave
 136.3875 22.825 m
@@ -979,8 +977,6 @@ gsave
 233.430978 457.705 l
 136.3875 457.705 l
 cl
-0.898 setgray
-fill
 grestore
 0.800 setlinewidth
 1 setlinejoin

@@ -1,5 +1,5 @@
 %!PS-Adobe-3.0 EPSF-3.0
-%%Title: figs/domain_creation_expiration_scatter.eps
+%%Title: figs/domain_creation_expiration_scatter.png
 %%Creator: matplotlib version 2.0.2, http://matplotlib.org/
 %%CreationDate: Fri May  4 16:08:58 2018
 %%Orientation: portrait
@@ -896,8 +896,6 @@ gsave
 428.74375 882.6705 l
 -0 882.6705 l
 cl
-1.000 setgray
-fill
 grestore
 gsave
 139.04375 10.7 m
@@ -905,8 +903,6 @@ gsave
 418.04375 826.1 l
 139.04375 826.1 l
 cl
-0.898 setgray
-fill
 grestore
 0.800 setlinewidth
 1 setlinejoin
