@@ -1,42 +1,45 @@
-# Booters' Ecosystem Analysis
-This repository was created to support the analysis included in an academic article (under reviewing process) entitled **"Quiet Dogs Can Bite: What Booters We Should Go After? And Which Are Our Mitigation Options?"** . 
+## Sharing the most extensive list of Booter Websites!!!
+<a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booters_ecosystem_analysis.ipynb" target="_blank">
+<input type="button" value="DOWNLOAD!" href="https://google.com" style="display: block; margin: 0 auto;"> 
+</a>
 
-# To see our analysis please click [here!](booters_ecosystem_analysis.ipynb)
+Booters are Websites that publicly offer Distributed Denial of Service (DDoS) attacks as a paid service. Other names for booter Websites are: Stressers, DDoS-for-hire, DDoS-as-a-Service, and DDoSers.
+ 
+If you use, for academic purposes, the Booter (Black)List **OR** our methodology **OR** our <a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booters_ecosystem_analysis.ipynb" target="_blank">analyses script</a>, **PLEASE** don't forget to cite the publicly available [Jair Santanna's Ph.D. thesis](https://research.utwente.nl/files/18494043/jjsantanna_thesis.pdf):
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jjsantanna/t/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```bibtex
+@phdthesis{jjsantanna2017thesis,
+          title = { {DDoS-as-a-Service: Investigating Booter Websites} },
+          author = {Santanna, José Jair},
+          year = {2017}
+          school = {University of Twente},
+          address = {Enschede, The Netherlands},
+          type = {Ph.D. thesis},
+          isbn = {9789036544290},
+          doi = {10.3990/1.9789036544290}
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+*This webpage is a front-page for the actual [GitHub repository](https://github.com/jjsantanna/booters_ecosystem_analysis) that (1) collects potential Booter Websites, (2) classify these potential Websites whether Booter or not, and (3) get additional information about each booter.* The analysis are centered in a single jupyter notebook that can be accessed <a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booters_ecosystem_analysis.ipynb" target="_blank">here!</a>
 
-### Jekyll Themes
+The list contains both online and offline Booter websites. While the online Booters can be automatically used for blacklisting purpose, the offline Booters can be used for historical analysis of their Market. For those that want only the online Booters, please dowload in the following button.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjsantanna/t/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h1> <input type="button" value="ONLY Online Booters" href="https://google.com" style="display: block; margin: 0 auto;"> </h1>
 
-### Support or Contact
+---
+## Publications:
+### Our methodology to **generate** the Booter (Black)List is documented at:
+- J.J. Santanna. **DDoS-as-a-Service: Investigating Booter Websites.** Chapter 2. Ph.D. Thesis. University of Twente, 2017, ISBN: 978-90-365-4429-0. 
+- J.J. Santanna, R. de O. Schmidt, D. Tuncer, J. de Vries, L.Z. Granville, and A. Pras. **Booter List Generation: The Basis for Investigating DDoS-for-hire Websites.** International Journal on Network Management (IJNM), 2017.
+- J.J. Santanna, R. de O. Schmidt, D. Tuncer, J. de Vries, L.Z. Granville, and A. Pras. **Booter Blacklist: Unveiling DDoS-for-hire Websites.** International Conference on Network and Service Management (CNSM). 2016. 
+- J.J. Chromik, J.J. Santanna, and A. Pras.**‘Booter websites characterization: Towards a list of threats’**. Brazilian Symposium on Computer Networks and Distributed Systems (SBRC). 2015.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Examples of usage of the Booter (Black)List is documented at:
+- J.J. Santanna, R. de O. Schmidt, D. Tuncer, A. Sperotto, L.Z. Granville, A. Pras. **Quite Dogs Can Bite: Which Booters Should We Go After? And What Are Our Mitigation Options?** IEEE Communication Magazine (ComMag) , 55 (7), pp. 50–56, 2017.
+- <p><a href="https://github.com/jjsantanna/booterblacklist_use_cases" target="_blank">GitHub repository that analyses users that were monitored by using the Booter (Black)List</a></p>
+---
+a
+![Caption for the picture.](/figs/alexarank_scatter.png)
+png
+![Caption for the picture.](figs/alexarank_scatter.png)
+
