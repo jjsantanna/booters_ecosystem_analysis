@@ -18,7 +18,8 @@ Our methodology to generate the Booter (Black)List is documented at (ordered by 
 
 
 
-- J.J. Santanna, R. de O. Schmidt, D. Tuncer, J. de Vries, L.Z. Granville, and A. Pras. **Booter Blacklist: Unveiling DDoS-for-hire Websites.** International Conference on Network and Service Management (CNSM). 2016. <details><summary>CLICK ME</summary>
+- J.J. Santanna, R. de O. Schmidt, D. Tuncer, J. de Vries, L.Z. Granville, and A. Pras. **Booter Blacklist: Unveiling DDoS-for-hire Websites.** International Conference on Network and Service Management (CNSM). 2016. 
+<details><summary>CLICK ME</summary>
 <p>
 
 ```python
