@@ -43,3 +43,5 @@ The list contains both online and offline Booter websites. While the online Boot
 ![hame](figs/alexarank_scatter.png =250x)
 
 <img src="https://github.com/jjsantanna/booters_ecosystem_analysis/tree/master/figs/topranked_general.png" alt="drawing" style="width: 200px;"/>
+
+<img src="figs/topranked_general.png" width="200">
