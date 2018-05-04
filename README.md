@@ -38,12 +38,6 @@ The list contains both online and offline Booter websites. While the online Boot
 - J.J. Santanna, R. de O. Schmidt, D. Tuncer, A. Sperotto, L.Z. Granville, A. Pras. **Quite Dogs Can Bite: Which Booters Should We Go After? And What Are Our Mitigation Options?** IEEE Communication Magazine (ComMag) , 55 (7), pp. 50–56, 2017.
 - <p><a href="https://github.com/jjsantanna/booterblacklist_use_cases" target="_blank">GitHub repository that analyses users that were monitored by using the Booter (Black)List</a></p>
 ---
-![Caption for the picture.](/figs/alexarank_scatter.png)
-
-<img src="url" alt="alt text" width="whatever" height="whatever">
-
-<img src="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/figs/topranked_general.png" alt="alt text" width=200px height=200px>
-
-<img src="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/figs/topranked_general.png" width="48">
+<img src="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/figs/alexarank_scatter.png" data-canonical-src="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/figs/alexarank_scatter.png" width="400" />
 
 
