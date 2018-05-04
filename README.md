@@ -2,7 +2,7 @@
 
 Actually, this is the front-page for [a GitHub repository](https://github.com/jjsantanna/booters_ecosystem_analysis) that analyses Booters. In the repository we (1) collect potential booter Websites, (2) classify these potential Websites for generating a list of booter (that we call 'booter blacklist'), (3) we enrich the information about each booter,
 
-{% include button.html url="http://www.google.com" %}
+
 
 The list contains both online and offline Booter websites. While the online Booters can be automatically used for blacklisting purpose, the offline Booters can be used for historical analysis of their Market.
 
