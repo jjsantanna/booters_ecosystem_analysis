@@ -8,15 +8,15 @@ If you use, for academic purposes, the Booter (Black)List **or** our methodology
 
 ```bibtex
 @phdthesis{jjsantanna2017thesis,
-title = {{DDoS-as-a-Service: Investigating Booter Websites}},
-author = {Santanna, Jose Jair},
-year = {2017}
-school = {University of Twente},
-address = {Enschede, The Netherlands},
-type = {Ph.D. thesis},
-isbn = {9789036544290},
-doi = {10.3990/1.9789036544290},
-url = {http://purl.org/utwente/doi/10.3990/1.9789036544290},
+          title = {\{DDoS-as-a-Service: Investigating Booter Websites\}},
+          author = {Santanna, Jose Jair},
+          year = {2017}
+          school = {University of Twente},
+          address = {Enschede, The Netherlands},
+          type = {Ph.D. thesis},
+          isbn = {9789036544290},
+          doi = {10.3990/1.9789036544290},
+          url = {http://purl.org/utwente/doi/10.3990/1.9789036544290},
 }
 ```
 
