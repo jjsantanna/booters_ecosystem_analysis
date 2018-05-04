@@ -3,9 +3,9 @@
 <input type="button" value="DOWNLOAD!" href="https://google.com" style="display: block; margin: 0 auto;"> 
 </a>
 
-#### Booters are Websites that publicly offer Distributed Denial of Service (DDoS) attacks as a paid service. Other names for Booters are: Stressers, DDoS for hire, DDoS as a Service, and DDoSers.
+Booters are Websites that publicly offer Distributed Denial of Service (DDoS) attacks as a paid service. Other names for booter Websites are: Stressers, DDoS-for-hire, DDoS-as-a-Service, and DDoSers.
  
-If you use, for academic purposes, the Booter (Black)List **or** our methodology **or** our analyses scripts , **PLEASE** don't forget to cite Jair Santanna's Ph.D. thesis:
+If you use, for academic purposes, the Booter (Black)List **OR** our methodology **OR** our analyses scripts , **PLEASE** don't forget to cite Jair Santanna's Ph.D. thesis:
 
 ```bibtex
 @phdthesis{jjsantanna2017thesis,
