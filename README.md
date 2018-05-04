@@ -39,7 +39,7 @@ The list contains both online and offline Booter websites. While the online Boot
 - <p><a href="https://github.com/jjsantanna/booterblacklist_use_cases" target="_blank">GitHub repository that analyses users that were monitored by using the Booter (Black)List</a></p>
 ---
 ![Caption for the picture.](/figs/alexarank_scatter.png)
-
+![a](/figs/alexarank_scatter.png =100x20)
 ![hame](figs/alexarank_scatter.png =250x)
 
 <img src="https://github.com/jjsantanna/booters_ecosystem_analysis/tree/master/figs/topranked_general.png" alt="drawing" style="width: 200px;"/>
