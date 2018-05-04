@@ -4,6 +4,7 @@ Actually, this is the front-page for [a GitHub repository](https://github.com/jj
 
 <button name="button">Click me</button>
 
+<div> <input type="button" value="button" style="display: block; margin: 0 auto;"> </div>
 
 The list contains both online and offline Booter websites. While the online Booters can be automatically used for blacklisting purpose, the offline Booters can be used for historical analysis of their Market.
 
