@@ -1,5 +1,12 @@
-# Booters' Ecosystem Analysis
-This repository was created to support the analysis included in an academic article (under reviewing process) entitled **"Quiet Dogs Can Bite: What Booters We Should Go After? And Which Are Our Mitigation Options?"** . 
+### This is an initiative to share the (most extensive) list of Websites that publicly offer DDoS attacks as a paid service, a.k.a. *Booters*, Stressers, DDoS for hire, DDoS as a Service, and DDoSers. 
+
+Actually, this is the front-page for [a GitHub repository](https://github.com/jjsantanna/booters_ecosystem_analysis) that analyses Booters. In the repository we (1) collect potential booter Websites, (2) classify these potential Websites for generating a list of booter (that we call 'booter blacklist'), (3) we enrich the information about each booter,
+
+{% include button.html url="http://www.google.com" %}
+
+The list contains both online and offline Booter websites. While the online Booters can be automatically used for blacklisting purpose, the offline Booters can be used for historical analysis of their Market.
+
+(1) collect  was created to support the analysis included in an academic article (under reviewing process) entitled **"Quiet Dogs Can Bite: What Booters We Should Go After? And Which Are Our Mitigation Options?"** . 
 
 # To see our analysis please click [here!](booters_ecosystem_analysis.ipynb)
 
