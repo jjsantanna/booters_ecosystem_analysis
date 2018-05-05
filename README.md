@@ -1,5 +1,5 @@
-<a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booters_ecosystem_analysis.ipynb" target="_blank">
-<input type="button" value="DOWNLOAD!" href="https://google.com" style="display: block; margin: 0 auto;"> 
+<a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booterblacklist.csv" target="_blank">
+<input type="button" value="DOWNLOAD!" href="https://google.com" style="display: block; margin: 0 auto;height:400px;width:400px;background-color: #db3236;"> 
 </a>
 
 Booters are Websites that publicly offer Distributed Denial of Service (DDoS) attacks as a paid service. Other names for booter Websites are: Stressers, DDoS-for-hire, DDoS-as-a-Service, and DDoSers.
