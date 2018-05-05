@@ -17,10 +17,6 @@ If you use, for academic purposes, the Booter (Black)List **OR** our methodology
 }
 ```
 
-*This webpage is a front-page for the actual [GitHub repository](https://github.com/jjsantanna/booters_ecosystem_analysis) that (1) collects potential Booter Websites, (2) classify these potential Websites whether Booter or not, and (3) get additional information about each booter.* The analysis are centered in a single jupyter notebook that can be accessed <a href="https://github.com/jjsantanna/booters_ecosystem_analysis/blob/master/booters_ecosystem_analysis.ipynb" target="_blank">here!</a>
-
-The list contains both online and offline Booter websites. While the online Booters can be automatically used for blacklisting purpose, the offline Booters can be used for historical analysis of their Market. For those that want only the online Booters, please dowload in the following button.
-
 ## Publications:
 ### Our methodology to **generate** the Booter (Black)List is documented at:
 - J.J. Santanna. **DDoS-as-a-Service: Investigating Booter Websites.** Chapter 2. Ph.D. Thesis. University of Twente, 2017, ISBN: 978-90-365-4429-0. 
